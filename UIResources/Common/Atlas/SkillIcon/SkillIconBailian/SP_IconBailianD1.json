@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_IconBailianD1",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_Common_SkillIcon_SkillIconBailian'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconBailian/TPI_Common_SkillIcon_SkillIconBailian.0"
+      }
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_IconMicaiY",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_Common_SkillIcon_SkillIconMicai'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconMicai/TPI_Common_SkillIcon_SkillIconMicai.0"
+      }
+    }
+  }
+]

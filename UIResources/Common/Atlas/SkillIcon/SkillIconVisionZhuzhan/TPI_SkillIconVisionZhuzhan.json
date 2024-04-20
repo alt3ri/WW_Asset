@@ -1,0 +1,126 @@
+[
+  {
+    "Type": "LGUITexturePackerImporterData",
+    "Name": "TPI_SkillIconVisionZhuzhan",
+    "Class": "UScriptClass'LGUITexturePackerImporterData'",
+    "Properties": {
+      "Version": "1.0",
+      "Sprites": [
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconVisionZhuzhan/SP_IconVisionZhuzhanA1.SP_IconVisionZhuzhanA1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconVisionZhuzhan/SP_IconVisionZhuzhanB1.SP_IconVisionZhuzhanB1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconVisionZhuzhan/SP_IconVisionZhuzhanC1.SP_IconVisionZhuzhanC1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconVisionZhuzhan/SP_IconVisionZhuzhanQ1.SP_IconVisionZhuzhanQ1"
+      ],
+      "AtlasTextures": [
+        {
+          "ObjectName": "Texture2D'T_TPI_SkillIconVisionZhuzhan1_UIAtlas'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconVisionZhuzhan/T_TPI_SkillIconVisionZhuzhan1_UIAtlas.0"
+        }
+      ],
+      "SpriteAtlasTextureMap": [
+        {
+          "0": 0
+        },
+        {
+          "2": 0
+        },
+        {
+          "36": 0
+        },
+        {
+          "0": 26
+        }
+      ],
+      "SpriteInfoMap": [
+        {
+          "0": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.003787879,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.24621212,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "1": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.25378788,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.49621212,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "2": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.5037879,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.7462121,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "3": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.7537879,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.9962121,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        }
+      ]
+    }
+  }
+]

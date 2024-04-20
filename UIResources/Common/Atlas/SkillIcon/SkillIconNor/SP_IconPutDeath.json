@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_IconPutDeath",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_Common_SkillIcon_SkillIconNor'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconNor/TPI_Common_SkillIcon_SkillIconNor.0"
+      }
+    }
+  }
+]

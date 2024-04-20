@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_Common_SkillIcon_SkillIconJiyan1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 792,
+        "Y": 396
+      },
+      "LightingGuid": "DBF322F5-4454F38E-9267B5A8-F0F2E5A2",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 792,
+    "SizeY": 396,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 313632,
+          "SizeOnDisk": 313632,
+          "OffsetInFile": "0x4D4EC"
+        },
+        "SizeX": 792,
+        "SizeY": 396,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_IconKakaluoD1",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_Common_SkillIcon_SkillIconKakaluo'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconKakaluo/TPI_Common_SkillIcon_SkillIconKakaluo.0"
+      }
+    }
+  }
+]

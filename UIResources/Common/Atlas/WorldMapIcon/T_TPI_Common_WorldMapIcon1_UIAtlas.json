@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_Common_WorldMapIcon1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1588,
+        "Y": 1984
+      },
+      "LightingGuid": "41A960EC-48E64EEB-B96309B3-763ACF7E",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1588,
+    "SizeY": 1984,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3150592,
+          "SizeOnDisk": 3150592,
+          "OffsetInFile": "0x301D4C"
+        },
+        "SizeX": 1588,
+        "SizeY": 1984,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

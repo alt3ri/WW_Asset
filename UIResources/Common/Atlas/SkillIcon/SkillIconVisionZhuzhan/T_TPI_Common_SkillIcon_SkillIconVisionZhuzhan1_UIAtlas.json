@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_Common_SkillIcon_SkillIconVisionZhuzhan1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 528,
+        "Y": 132
+      },
+      "LightingGuid": "B9509C98-404A41CE-E956B1B6-B2208E2E",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 528,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 69696,
+          "SizeOnDisk": 69696,
+          "OffsetInFile": "0x11B04"
+        },
+        "SizeX": 528,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

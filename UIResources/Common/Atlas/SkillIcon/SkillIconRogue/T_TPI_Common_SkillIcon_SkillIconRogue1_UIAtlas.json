@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_Common_SkillIcon_SkillIconRogue1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 1188,
+        "Y": 396
+      },
+      "LightingGuid": "5081DFB4-44005BD6-51C1C48F-6CC4CB0C",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1188,
+    "SizeY": 396,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 470448,
+          "SizeOnDisk": 470448,
+          "OffsetInFile": "0x7397C"
+        },
+        "SizeX": 1188,
+        "SizeY": 396,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

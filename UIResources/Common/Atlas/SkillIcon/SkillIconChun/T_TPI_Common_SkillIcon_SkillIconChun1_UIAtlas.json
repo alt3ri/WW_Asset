@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_Common_SkillIcon_SkillIconChun1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 924,
+        "Y": 132
+      },
+      "LightingGuid": "CD09392A-4D8D2993-D7D51390-14E54721",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 924,
+    "SizeY": 132,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 121968,
+          "SizeOnDisk": 121968,
+          "OffsetInFile": "0x1E836"
+        },
+        "SizeX": 924,
+        "SizeY": 132,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

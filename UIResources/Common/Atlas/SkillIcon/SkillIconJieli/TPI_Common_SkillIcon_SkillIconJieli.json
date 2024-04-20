@@ -1,0 +1,204 @@
+[
+  {
+    "Type": "LGUITexturePackerImporterData",
+    "Name": "TPI_Common_SkillIcon_SkillIconJieli",
+    "Class": "UScriptClass'LGUITexturePackerImporterData'",
+    "Properties": {
+      "Version": "1.0",
+      "Sprites": [
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJieli/SP_IconJieliA1.SP_IconJieliA1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJieli/SP_IconJieliB1.SP_IconJieliB1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJieli/SP_IconJieliC1.SP_IconJieliC1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJieli/SP_IconJieliD1.SP_IconJieliD1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJieli/SP_IconJieliD2.SP_IconJieliD2",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJieli/SP_IconJieliQTE.SP_IconJieliQTE",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJieli/SP_IconJieliY.SP_IconJieliY"
+      ],
+      "AtlasTextures": [
+        {
+          "ObjectName": "Texture2D'T_TPI_Common_SkillIcon_SkillIconJieli1_UIAtlas'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconJieli/T_TPI_Common_SkillIcon_SkillIconJieli1_UIAtlas.0"
+        }
+      ],
+      "SpriteAtlasTextureMap": [
+        {
+          "0": 0
+        },
+        {
+          "2": 0
+        },
+        {
+          "4": 0
+        },
+        {
+          "6": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "2048": 14
+        }
+      ],
+      "SpriteInfoMap": [
+        {
+          "0": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.0021645022,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.14069264,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "1": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.14502165,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.2835498,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "2": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.28787878,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.42640692,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "3": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.43073592,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.56926405,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "4": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.5735931,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.7121212,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "5": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.7164502,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.8549784,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "6": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.85930735,
+            "uv0Y": 0.9848485,
+            "uv3X": 0.9978355,
+            "uv3Y": 0.015151516,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_Common_TabIcon1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 1844,
+        "Y": 1928
+      },
+      "LightingGuid": "751B7E56-41AFA5B2-9B05568E-D3CCCBAC",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1844,
+    "SizeY": 1928,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3555232,
+          "SizeOnDisk": 3555232,
+          "OffsetInFile": "0x364B06"
+        },
+        "SizeX": 1844,
+        "SizeY": 1928,
+        "SizeZ": 1
+      }
+    ]
+  }
+]
