@@ -1,0 +1,1114 @@
+[
+  {
+    "Type": "LGUITexturePackerImporterData",
+    "Name": "TPI_UiFunc",
+    "Class": "UScriptClass'LGUITexturePackerImporterData'",
+    "Properties": {
+      "Version": "1.0",
+      "Sprites": [
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_Declare_02.SP_Declare_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FightIconOnline.SP_FightIconOnline",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncButtonChangeName_02.SP_FuncButtonChangeName_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncButtonChangeName_highLight_02.SP_FuncButtonChangeName_highLight_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncButtonCopy_02.SP_FuncButtonCopy_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncButtonCopy_highLight_02.SP_FuncButtonCopy_highLight_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncFrameNo_Neo.SP_FuncFrameNo_Neo",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncHeadbottom_02.SP_FuncHeadbottom_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconAchievement.SP_FuncIconAchievement",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconActivity.SP_FuncIconActivity",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBag.SP_FuncIconBag",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBaike.SP_FuncIconBaike",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBaike2.SP_FuncIconBaike2",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconBp.SP_FuncIconBp",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconCopy.SP_FuncIconCopy",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconDis.SP_FuncIconDis",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconEsc.SP_FuncIconEsc",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconExplore.SP_FuncIconExplore",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconFriends.SP_FuncIconFriends",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconGacha.SP_FuncIconGacha",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconGong.SP_FuncIconGong",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMail.SP_FuncIconMail",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconManual.SP_FuncIconManual",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMap.SP_FuncIconMap",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconMonster.SP_FuncIconMonster",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconPaizhao.SP_FuncIconPaizhao",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconQuest.SP_FuncIconQuest",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconRenwu.SP_FuncIconRenwu",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconRole.SP_FuncIconRole",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconSetup.SP_FuncIconSetup",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconShop.SP_FuncIconShop",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconShuJuWu.SP_FuncIconShuJuWu",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTeam.SP_FuncIconTeam",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTime.SP_FuncIconTime",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTips_02.SP_FuncIconTips_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTips_highLight_02.SP_FuncIconTips_highLight_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncIconTujian.SP_FuncIconTujian",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncMore_02.SP_FuncMore_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncMore_highLight_02.SP_FuncMore_highLight_02",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncPagesNor.SP_FuncPagesNor",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FuncPagesSel.SP_FuncPagesSel",
+        "/Game/Aki/UI/UIResources/UiFunc/Atlas/SP_FunIconKuro.SP_FunIconKuro"
+      ],
+      "AtlasTextures": [
+        {
+          "ObjectName": "Texture2D'T_TPI_UiFunc1_UIAtlas'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiFunc/Atlas/T_TPI_UiFunc1_UIAtlas.0"
+        }
+      ],
+      "SpriteAtlasTextureMap": [
+        {
+          "0": 0
+        },
+        {
+          "2": 0
+        },
+        {
+          "4": 0
+        },
+        {
+          "6": 0
+        },
+        {
+          "8": 0
+        },
+        {
+          "10": 0
+        },
+        {
+          "12": 0
+        },
+        {
+          "14": 0
+        },
+        {
+          "16": 0
+        },
+        {
+          "18": 0
+        },
+        {
+          "20": 0
+        },
+        {
+          "22": 0
+        },
+        {
+          "24": 0
+        },
+        {
+          "26": 0
+        },
+        {
+          "28": 0
+        },
+        {
+          "30": 0
+        },
+        {
+          "32": 0
+        },
+        {
+          "34": 0
+        },
+        {
+          "36": 0
+        },
+        {
+          "38": 0
+        },
+        {
+          "40": 0
+        },
+        {
+          "74": 0
+        },
+        {
+          "0": 64
+        },
+        {
+          "0": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "81": 0
+        },
+        {
+          "0": 77
+        },
+        {
+          "0": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "512": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "61": 0
+        },
+        {
+          "0": 81
+        },
+        {
+          "0": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "11264": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "0": 0
+        },
+        {
+          "512": 0
+        }
+      ],
+      "SpriteInfoMap": [
+        {
+          "0": {
+            "width": 44,
+            "height": 44,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.25671643,
+            "uv0Y": 0.63414633,
+            "uv3X": 0.28955224,
+            "uv3Y": 0.5447154,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "1": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.0029850747,
+            "uv0Y": 0.9593496,
+            "uv3X": 0.098507464,
+            "uv3Y": 0.699187,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "2": {
+            "width": 88,
+            "height": 88,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.29850745,
+            "uv0Y": 0.99186987,
+            "uv3X": 0.3641791,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "3": {
+            "width": 88,
+            "height": 88,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.3671642,
+            "uv0Y": 0.99186987,
+            "uv3X": 0.43283582,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "4": {
+            "width": 88,
+            "height": 88,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.4358209,
+            "uv0Y": 0.99186987,
+            "uv3X": 0.50149256,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "5": {
+            "width": 88,
+            "height": 88,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.5044776,
+            "uv0Y": 0.99186987,
+            "uv3X": 0.57014924,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "6": {
+            "width": 24,
+            "height": 92,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.8477612,
+            "uv0Y": 0.53658533,
+            "uv3X": 0.86567163,
+            "uv3Y": 0.3495935,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "7": {
+            "width": 336,
+            "height": 336,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.0029850747,
+            "uv0Y": 0.6910569,
+            "uv3X": 0.25373134,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "8": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.10149254,
+            "uv0Y": 0.9593496,
+            "uv3X": 0.19701493,
+            "uv3Y": 0.699187,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "9": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.2,
+            "uv0Y": 0.9593496,
+            "uv3X": 0.2955224,
+            "uv3Y": 0.699187,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "10": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.25671643,
+            "uv0Y": 0.26829267,
+            "uv3X": 0.3522388,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "11": {
+            "width": 84,
+            "height": 84,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.64179105,
+            "uv0Y": 0.9837398,
+            "uv3X": 0.7044776,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "12": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.25671643,
+            "uv0Y": 0.53658533,
+            "uv3X": 0.3522388,
+            "uv3Y": 0.27642274,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "13": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.29850745,
+            "uv0Y": 0.804878,
+            "uv3X": 0.39402986,
+            "uv3Y": 0.5447154,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "14": {
+            "width": 84,
+            "height": 84,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.70746267,
+            "uv0Y": 0.9837398,
+            "uv3X": 0.77014923,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "15": {
+            "width": 104,
+            "height": 76,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.74925375,
+            "uv0Y": 0.16260162,
+            "uv3X": 0.8268657,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "16": {
+            "width": 84,
+            "height": 84,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.77313435,
+            "uv0Y": 0.9837398,
+            "uv3X": 0.8358209,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "17": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.3552239,
+            "uv0Y": 0.26829267,
+            "uv3X": 0.45074627,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "18": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.3552239,
+            "uv0Y": 0.53658533,
+            "uv3X": 0.45074627,
+            "uv3Y": 0.27642274,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "19": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.39701492,
+            "uv0Y": 0.804878,
+            "uv3X": 0.49253732,
+            "uv3Y": 0.5447154,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "20": {
+            "width": 84,
+            "height": 84,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.8686567,
+            "uv0Y": 0.44715446,
+            "uv3X": 0.9313433,
+            "uv3Y": 0.27642274,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "21": {
+            "width": 84,
+            "height": 84,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.9343284,
+            "uv0Y": 0.5203252,
+            "uv3X": 0.99701494,
+            "uv3Y": 0.3495935,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "22": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.45373136,
+            "uv0Y": 0.26829267,
+            "uv3X": 0.54925376,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "23": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.45373136,
+            "uv0Y": 0.53658533,
+            "uv3X": 0.54925376,
+            "uv3Y": 0.27642274,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "24": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.49552238,
+            "uv0Y": 0.804878,
+            "uv3X": 0.5910448,
+            "uv3Y": 0.5447154,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "25": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.5522388,
+            "uv0Y": 0.26829267,
+            "uv3X": 0.6477612,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "26": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.5522388,
+            "uv0Y": 0.53658533,
+            "uv3X": 0.6477612,
+            "uv3Y": 0.27642274,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "27": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.59402984,
+            "uv0Y": 0.804878,
+            "uv3X": 0.68955225,
+            "uv3Y": 0.5447154,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "28": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6507463,
+            "uv0Y": 0.26829267,
+            "uv3X": 0.7462687,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "29": {
+            "width": 84,
+            "height": 84,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.838806,
+            "uv0Y": 0.9837398,
+            "uv3X": 0.90149254,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "30": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6507463,
+            "uv0Y": 0.53658533,
+            "uv3X": 0.7462687,
+            "uv3Y": 0.27642274,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "31": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6925373,
+            "uv0Y": 0.804878,
+            "uv3X": 0.7880597,
+            "uv3Y": 0.5447154,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "32": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.838806,
+            "uv0Y": 0.26829267,
+            "uv3X": 0.9343284,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "33": {
+            "width": 84,
+            "height": 84,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.9044776,
+            "uv0Y": 0.9593496,
+            "uv3X": 0.96716416,
+            "uv3Y": 0.78861785,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "34": {
+            "width": 80,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.93731344,
+            "uv0Y": 0.1707317,
+            "uv3X": 0.99701494,
+            "uv3Y": 0.008130081,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "35": {
+            "width": 80,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.93731344,
+            "uv0Y": 0.3414634,
+            "uv3X": 0.99701494,
+            "uv3Y": 0.17886178,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "36": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.74925375,
+            "uv0Y": 0.53658533,
+            "uv3X": 0.84477615,
+            "uv3Y": 0.27642274,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "37": {
+            "width": 124,
+            "height": 124,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.9044776,
+            "uv0Y": 0.7804878,
+            "uv3X": 0.99701494,
+            "uv3Y": 0.52845526,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "38": {
+            "width": 88,
+            "height": 88,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.5731343,
+            "uv0Y": 0.99186987,
+            "uv3X": 0.638806,
+            "uv3Y": 0.81300807,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "39": {
+            "width": 12,
+            "height": 12,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.0029850747,
+            "uv0Y": 0.99186987,
+            "uv3X": 0.011940299,
+            "uv3Y": 0.96747965,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "40": {
+            "width": 20,
+            "height": 20,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.25671643,
+            "uv0Y": 0.6829268,
+            "uv3X": 0.2716418,
+            "uv3Y": 0.6422764,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "41": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.7910448,
+            "uv0Y": 0.804878,
+            "uv3X": 0.8865672,
+            "uv3Y": 0.5447154,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        }
+      ]
+    }
+  }
+]

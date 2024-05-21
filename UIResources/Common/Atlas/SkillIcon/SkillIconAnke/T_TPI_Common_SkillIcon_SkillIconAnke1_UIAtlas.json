@@ -7,16 +7,16 @@
       "AddressX": "TA_Clamp",
       "AddressY": "TA_Clamp",
       "ImportedSize": {
-        "X": 1584,
-        "Y": 132
+        "X": 532,
+        "Y": 400
       },
-      "LightingGuid": "8FE4A7B1-4A667CE7-F623D3A5-65AFC422",
+      "LightingGuid": "A903ED33-49E41EC6-84D1DE8E-8E3895A4",
       "CompressionSettings": "TC_BC7",
       "LODGroup": "TEXTUREGROUP_UI",
       "NeverStream": true
     },
-    "SizeX": 1584,
-    "SizeY": 132,
+    "SizeX": 532,
+    "SizeY": 400,
     "PackedData": 1,
     "PixelFormat": "PF_BC7",
     "FirstMipToSerialize": 0,
@@ -24,12 +24,12 @@
       {
         "BulkData": {
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
-          "ElementCount": 209088,
-          "SizeOnDisk": 209088,
-          "OffsetInFile": "0x33C86"
+          "ElementCount": 212800,
+          "SizeOnDisk": 212800,
+          "OffsetInFile": "0x34B06"
         },
-        "SizeX": 1584,
-        "SizeY": 132,
+        "SizeX": 532,
+        "SizeY": 400,
         "SizeZ": 1
       }
     ]
