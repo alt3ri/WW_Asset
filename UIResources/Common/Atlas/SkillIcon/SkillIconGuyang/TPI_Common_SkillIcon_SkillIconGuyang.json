@@ -19,21 +19,26 @@
       ],
       "SpriteAtlasTextureMap": [
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         },
         {
-          "2": 0
+          "Key": "2",
+          "Value": 0
         },
         {
-          "36": 0
+          "Key": "36",
+          "Value": 0
         },
         {
-          "0": 26
+          "Key": "0",
+          "Value": 26
         }
       ],
       "SpriteInfoMap": [
         {
-          "0": {
+          "Key": "0",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -55,7 +60,8 @@
           }
         },
         {
-          "1": {
+          "Key": "1",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -77,7 +83,8 @@
           }
         },
         {
-          "2": {
+          "Key": "2",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -99,7 +106,8 @@
           }
         },
         {
-          "3": {
+          "Key": "3",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,

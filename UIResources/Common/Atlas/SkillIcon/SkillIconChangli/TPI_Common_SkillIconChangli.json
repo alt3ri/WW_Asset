@@ -1,0 +1,302 @@
+[
+  {
+    "Type": "LGUITexturePackerImporterData",
+    "Name": "TPI_Common_SkillIconChangli",
+    "Class": "UScriptClass'LGUITexturePackerImporterData'",
+    "Properties": {
+      "Version": "1.0",
+      "Sprites": [
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliA1.SP_IconChangliA1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliA2.SP_IconChangliA2",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliB1.SP_IconChangliB1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliC1.SP_IconChangliC1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliC2.SP_IconChangliC2",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliD1.SP_IconChangliD1",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliD2.SP_IconChangliD2",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliQTE.SP_IconChangliQTE",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliT.SP_IconChangliT",
+        "/Game/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/SP_IconChangliY.SP_IconChangliY"
+      ],
+      "AtlasTextures": [
+        {
+          "ObjectName": "Texture2D'T_TPI_Common_SkillIconChangli1_UIAtlas'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/Common/Atlas/SkillIcon/SkillIconChangli/T_TPI_Common_SkillIconChangli1_UIAtlas.0"
+        }
+      ],
+      "SpriteAtlasTextureMap": [
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "2",
+          "Value": 0
+        },
+        {
+          "Key": "4",
+          "Value": 0
+        },
+        {
+          "Key": "6",
+          "Value": 0
+        },
+        {
+          "Key": "8",
+          "Value": 0
+        },
+        {
+          "Key": "42",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 32
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "49",
+          "Value": 0
+        }
+      ],
+      "SpriteInfoMap": [
+        {
+          "Key": "0",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.003021148,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.09969789,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.10271903,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.19939578,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.20241691,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.29909366,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.3021148,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.39879155,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.4018127,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.49848944,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.50151056,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.5981873,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.60120845,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.6978852,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.70090634,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.7975831,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.8006042,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.897281,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "width": 128,
+            "height": 128,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.9003021,
+            "uv0Y": 0.97058827,
+            "uv3X": 0.9969789,
+            "uv3Y": 0.029411765,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        }
+      ]
+    }
+  }
+]

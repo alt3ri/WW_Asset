@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_Common_SkillIconChangli1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1324,
+        "Y": 136
+      },
+      "LightingGuid": "92543EC8-40AAFC62-85AA6688-4953AD27",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1324,
+    "SizeY": 136,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 180064,
+          "SizeOnDisk": 180064,
+          "OffsetInFile": "0x2C9D8"
+        },
+        "SizeX": 1324,
+        "SizeY": 136,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

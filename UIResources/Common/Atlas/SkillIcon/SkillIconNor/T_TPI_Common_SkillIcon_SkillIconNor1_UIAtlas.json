@@ -5,15 +5,15 @@
     "Class": "UScriptClass'Texture2D'",
     "Properties": {
       "ImportedSize": {
-        "X": 1832,
+        "X": 1900,
         "Y": 532
       },
-      "LightingGuid": "59483FFD-4E6DBB72-C0879882-2A50B125",
+      "LightingGuid": "CEF7469C-4569CB7C-5377DC9F-A3CB596B",
       "CompressionSettings": "TC_BC7",
       "LODGroup": "TEXTUREGROUP_UI",
       "NeverStream": true
     },
-    "SizeX": 1832,
+    "SizeX": 1900,
     "SizeY": 532,
     "PackedData": 1,
     "PixelFormat": "PF_BC7",
@@ -22,11 +22,11 @@
       {
         "BulkData": {
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
-          "ElementCount": 974624,
-          "SizeOnDisk": 974624,
-          "OffsetInFile": "0xEE9A8"
+          "ElementCount": 1010800,
+          "SizeOnDisk": 1010800,
+          "OffsetInFile": "0xF76F8"
         },
-        "SizeX": 1832,
+        "SizeX": 1900,
         "SizeY": 532,
         "SizeZ": 1
       }

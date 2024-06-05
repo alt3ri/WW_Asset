@@ -23,33 +23,42 @@
       ],
       "SpriteAtlasTextureMap": [
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         },
         {
-          "2": 0
+          "Key": "2",
+          "Value": 0
         },
         {
-          "4": 0
+          "Key": "4",
+          "Value": 0
         },
         {
-          "6": 0
+          "Key": "6",
+          "Value": 0
         },
         {
-          "40": 0
+          "Key": "40",
+          "Value": 0
         },
         {
-          "0": 30
+          "Key": "0",
+          "Value": 30
         },
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         },
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         }
       ],
       "SpriteInfoMap": [
         {
-          "0": {
+          "Key": "0",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -71,7 +80,8 @@
           }
         },
         {
-          "1": {
+          "Key": "1",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -93,7 +103,8 @@
           }
         },
         {
-          "2": {
+          "Key": "2",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -115,7 +126,8 @@
           }
         },
         {
-          "3": {
+          "Key": "3",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -137,7 +149,8 @@
           }
         },
         {
-          "4": {
+          "Key": "4",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -159,7 +172,8 @@
           }
         },
         {
-          "5": {
+          "Key": "5",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -181,7 +195,8 @@
           }
         },
         {
-          "6": {
+          "Key": "6",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -203,7 +218,8 @@
           }
         },
         {
-          "7": {
+          "Key": "7",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,

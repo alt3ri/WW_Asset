@@ -28,48 +28,62 @@
       ],
       "SpriteAtlasTextureMap": [
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         },
         {
-          "2": 0
+          "Key": "2",
+          "Value": 0
         },
         {
-          "4": 0
+          "Key": "4",
+          "Value": 0
         },
         {
-          "6": 0
+          "Key": "6",
+          "Value": 0
         },
         {
-          "8": 0
+          "Key": "8",
+          "Value": 0
         },
         {
-          "10": 0
+          "Key": "10",
+          "Value": 0
         },
         {
-          "12": 0
+          "Key": "12",
+          "Value": 0
         },
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         },
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         },
         {
-          "2048": 26
+          "Key": "2048",
+          "Value": 26
         },
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         },
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         },
         {
-          "0": 0
+          "Key": "0",
+          "Value": 0
         }
       ],
       "SpriteInfoMap": [
         {
-          "0": {
+          "Key": "0",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -91,7 +105,8 @@
           }
         },
         {
-          "1": {
+          "Key": "1",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -113,7 +128,8 @@
           }
         },
         {
-          "2": {
+          "Key": "2",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -135,7 +151,8 @@
           }
         },
         {
-          "3": {
+          "Key": "3",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -157,7 +174,8 @@
           }
         },
         {
-          "4": {
+          "Key": "4",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -179,7 +197,8 @@
           }
         },
         {
-          "5": {
+          "Key": "5",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -201,7 +220,8 @@
           }
         },
         {
-          "6": {
+          "Key": "6",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -223,7 +243,8 @@
           }
         },
         {
-          "7": {
+          "Key": "7",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -245,7 +266,8 @@
           }
         },
         {
-          "8": {
+          "Key": "8",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -267,7 +289,8 @@
           }
         },
         {
-          "9": {
+          "Key": "9",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -289,7 +312,8 @@
           }
         },
         {
-          "10": {
+          "Key": "10",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -311,7 +335,8 @@
           }
         },
         {
-          "11": {
+          "Key": "11",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
@@ -333,7 +358,8 @@
           }
         },
         {
-          "12": {
+          "Key": "12",
+          "Value": {
             "width": 128,
             "height": 128,
             "borderLeft": 0,
