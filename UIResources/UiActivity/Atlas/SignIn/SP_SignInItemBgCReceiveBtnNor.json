@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_SignInItemBgCReceiveBtnNor",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 120,
+      "BorderRight": 120,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_SignIn'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/SignIn/TPI_UiActivity_SignIn.0"
+      }
+    }
+  }
+]

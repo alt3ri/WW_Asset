@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_NumC02",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_Turntable'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/Turntable/TPI_UiActivity_Turntable.0"
+      }
+    }
+  }
+]

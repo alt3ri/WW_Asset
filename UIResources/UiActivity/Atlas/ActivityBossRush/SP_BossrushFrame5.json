@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_BossrushFrame5",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_ActivityBossRush'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/ActivityBossRush/TPI_UiActivity_ActivityBossRush.0"
+      }
+    }
+  }
+]

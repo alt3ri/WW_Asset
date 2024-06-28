@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_BossrushItemLockMask",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderTop": 100,
+      "BorderBottom": 100,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_ActivityBossRush'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/ActivityBossRush/TPI_UiActivity_ActivityBossRush.0"
+      }
+    }
+  }
+]

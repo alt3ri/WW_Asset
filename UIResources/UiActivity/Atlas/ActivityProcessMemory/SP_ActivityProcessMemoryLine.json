@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_ActivityProcessMemoryLine",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 40,
+      "BorderRight": 10,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_ActivityProcessMemory'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/ActivityProcessMemory/TPI_UiActivity_ActivityProcessMemory.0"
+      }
+    }
+  }
+]

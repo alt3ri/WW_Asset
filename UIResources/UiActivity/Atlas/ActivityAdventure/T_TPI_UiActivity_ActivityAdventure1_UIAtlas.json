@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_UiActivity_ActivityAdventure1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1748,
+        "Y": 1024
+      },
+      "LightingGuid": "DE9C684B-49AE521A-C04736A1-ECB09667",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1748,
+    "SizeY": 1024,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1789952,
+          "SizeOnDisk": 1789952,
+          "OffsetInFile": "0x1B5A82"
+        },
+        "SizeX": 1748,
+        "SizeY": 1024,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

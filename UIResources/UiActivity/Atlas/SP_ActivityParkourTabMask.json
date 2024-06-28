@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_ActivityParkourTabMask",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 20,
+      "BorderRight": 40,
+      "BorderTop": 40,
+      "BorderBottom": 20,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/TPI_UiActivity.0"
+      }
+    }
+  }
+]

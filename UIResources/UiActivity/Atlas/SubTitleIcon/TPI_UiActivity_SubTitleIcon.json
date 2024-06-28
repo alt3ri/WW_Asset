@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "LGUITexturePackerImporterData",
+    "Name": "TPI_UiActivity_SubTitleIcon",
+    "Class": "UScriptClass'LGUITexturePackerImporterData'",
+    "Properties": {
+      "Version": "1.0",
+      "Sprites": [
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SubTitleIcon/SP_SubTitleIcon_01.SP_SubTitleIcon_01"
+      ],
+      "AtlasTextures": [
+        {
+          "ObjectName": "Texture2D'T_TPI_UiActivity_SubTitleIcon1_UIAtlas'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/SubTitleIcon/T_TPI_UiActivity_SubTitleIcon1_UIAtlas.0"
+        }
+      ],
+      "SpriteAtlasTextureMap": [
+        {
+          "Key": "0",
+          "Value": 0
+        }
+      ],
+      "SpriteInfoMap": [
+        {
+          "Key": "0",
+          "Value": {
+            "width": 52,
+            "height": 52,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.06666667,
+            "uv0Y": 0.9333334,
+            "uv3X": 0.9333334,
+            "uv3Y": 0.06666667,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        }
+      ]
+    }
+  }
+]

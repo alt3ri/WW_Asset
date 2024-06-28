@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_BossrushTeamBg2",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 320,
+      "BorderRight": 110,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_ActivityBossRush'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/ActivityBossRush/TPI_UiActivity_ActivityBossRush.0"
+      }
+    }
+  }
+]

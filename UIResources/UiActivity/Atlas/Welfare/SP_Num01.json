@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_Num01",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_Welfare'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/Welfare/TPI_UiActivity_Welfare.0"
+      }
+    }
+  }
+]

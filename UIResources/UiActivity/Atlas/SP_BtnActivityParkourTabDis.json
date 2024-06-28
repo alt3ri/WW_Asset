@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_BtnActivityParkourTabDis",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 40,
+      "BorderRight": 40,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/TPI_UiActivity.0"
+      }
+    }
+  }
+]

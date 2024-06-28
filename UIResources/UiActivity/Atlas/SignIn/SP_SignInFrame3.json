@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_SignInFrame3",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_SignIn'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/SignIn/TPI_UiActivity_SignIn.0"
+      }
+    }
+  }
+]

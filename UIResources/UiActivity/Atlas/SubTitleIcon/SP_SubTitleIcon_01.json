@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_SubTitleIcon_01",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_SubTitleIcon'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/SubTitleIcon/TPI_UiActivity_SubTitleIcon.0"
+      }
+    }
+  }
+]

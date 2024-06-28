@@ -1,0 +1,918 @@
+[
+  {
+    "Type": "LGUITexturePackerImporterData",
+    "Name": "TPI_UiActivity_SignIn",
+    "Class": "UScriptClass'LGUITexturePackerImporterData'",
+    "Properties": {
+      "Version": "1.0",
+      "Sprites": [
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInFrame.SP_SignInFrame",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInFrame1.SP_SignInFrame1",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInFrame2.SP_SignInFrame2",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInFrame3.SP_SignInFrame3",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgA.SP_SignInItemBgA",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgAHold.SP_SignInItemBgAHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgAReward.SP_SignInItemBgAReward",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgB.SP_SignInItemBgB",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgBHold.SP_SignInItemBgBHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgBHoldReward.SP_SignInItemBgBHoldReward",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgCComHold.SP_SignInItemBgCComHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgCHold.SP_SignInItemBgCHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgCNor.SP_SignInItemBgCNor",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgCReceiveBtnHold.SP_SignInItemBgCReceiveBtnHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgCReceiveBtnNor.SP_SignInItemBgCReceiveBtnNor",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgCReceiveBtnPre.SP_SignInItemBgCReceiveBtnPre",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgCReceiveHold.SP_SignInItemBgCReceiveHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgCReceiveNor.SP_SignInItemBgCReceiveNor",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemBgHold.SP_SignInItemBgHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemFrm.SP_SignInItemFrm",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemPixBgHold.SP_SignInItemPixBgHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemPixBgNor.SP_SignInItemPixBgNor",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemRewardBg.SP_SignInItemRewardBg",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemRewardBgHold.SP_SignInItemRewardBgHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemRewardBgReward.SP_SignInItemRewardBgReward",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemRewardIcon.SP_SignInItemRewardIcon",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInItemRewardIconHold.SP_SignInItemRewardIconHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInTabBg.SP_SignInTabBg",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInTabLine.SP_SignInTabLine",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInTabNor.SP_SignInTabNor",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInTabSele.SP_SignInTabSele",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/SignIn/SP_SignInTabSeleB.SP_SignInTabSeleB"
+      ],
+      "AtlasTextures": [
+        {
+          "ObjectName": "Texture2D'T_TPI_UiActivity_SignIn1_UIAtlas'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/SignIn/T_TPI_UiActivity_SignIn1_UIAtlas.0"
+        }
+      ],
+      "SpriteAtlasTextureMap": [
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "2",
+          "Value": 0
+        },
+        {
+          "Key": "4",
+          "Value": 0
+        },
+        {
+          "Key": "6",
+          "Value": 0
+        },
+        {
+          "Key": "8",
+          "Value": 0
+        },
+        {
+          "Key": "10",
+          "Value": 0
+        },
+        {
+          "Key": "12",
+          "Value": 0
+        },
+        {
+          "Key": "14",
+          "Value": 0
+        },
+        {
+          "Key": "16",
+          "Value": 0
+        },
+        {
+          "Key": "18",
+          "Value": 0
+        },
+        {
+          "Key": "20",
+          "Value": 0
+        },
+        {
+          "Key": "22",
+          "Value": 0
+        },
+        {
+          "Key": "24",
+          "Value": 0
+        },
+        {
+          "Key": "26",
+          "Value": 0
+        },
+        {
+          "Key": "28",
+          "Value": 0
+        },
+        {
+          "Key": "30",
+          "Value": 0
+        },
+        {
+          "Key": "64",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 54
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "71",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 67
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "512",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "51",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 71
+        },
+        {
+          "Key": "0",
+          "Value": 0
+        }
+      ],
+      "SpriteInfoMap": [
+        {
+          "Key": "0",
+          "Value": {
+            "width": 284,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.5074257,
+            "uv0Y": 0.89376444,
+            "uv3X": 0.6831683,
+            "uv3Y": 0.84757507,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "width": 120,
+            "height": 120,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.37623763,
+            "uv0Y": 0.19861431,
+            "uv3X": 0.45049503,
+            "uv3Y": 0.12933025,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "width": 596,
+            "height": 216,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.37623763,
+            "uv0Y": 0.12702079,
+            "uv3X": 0.7450495,
+            "uv3Y": 0.0023094688,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "width": 600,
+            "height": 380,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.0024752475,
+            "uv0Y": 0.22170901,
+            "uv3X": 0.37376237,
+            "uv3Y": 0.0023094688,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "width": 236,
+            "height": 324,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.85148513,
+            "uv0Y": 0.18937644,
+            "uv3X": 0.99752474,
+            "uv3Y": 0.0023094688,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "width": 236,
+            "height": 324,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.85148513,
+            "uv0Y": 0.3787529,
+            "uv3X": 0.99752474,
+            "uv3Y": 0.19168591,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "width": 236,
+            "height": 324,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.85148513,
+            "uv0Y": 0.5681293,
+            "uv3X": 0.99752474,
+            "uv3Y": 0.38106236,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "width": 236,
+            "height": 656,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.0024752475,
+            "uv0Y": 0.60277134,
+            "uv3X": 0.14851485,
+            "uv3Y": 0.22401847,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "width": 236,
+            "height": 656,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.0024752475,
+            "uv0Y": 0.98383373,
+            "uv3X": 0.14851485,
+            "uv3Y": 0.60508084,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "width": 236,
+            "height": 656,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.1509901,
+            "uv0Y": 0.60277134,
+            "uv3X": 0.2970297,
+            "uv3Y": 0.22401847,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "10",
+          "Value": {
+            "width": 312,
+            "height": 428,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.46039602,
+            "uv0Y": 0.37644342,
+            "uv3X": 0.65346533,
+            "uv3Y": 0.12933025,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "11",
+          "Value": {
+            "width": 312,
+            "height": 428,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6559406,
+            "uv0Y": 0.37644342,
+            "uv3X": 0.8490099,
+            "uv3Y": 0.12933025,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "12",
+          "Value": {
+            "width": 312,
+            "height": 428,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.46039602,
+            "uv0Y": 0.62586606,
+            "uv3X": 0.65346533,
+            "uv3Y": 0.3787529,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "13",
+          "Value": {
+            "width": 284,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.68564355,
+            "uv0Y": 0.8960739,
+            "uv3X": 0.8613861,
+            "uv3Y": 0.8498845,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "14",
+          "Value": {
+            "width": 284,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.42574257,
+            "uv0Y": 0.94226325,
+            "uv3X": 0.60148513,
+            "uv3Y": 0.8960739,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "15",
+          "Value": {
+            "width": 284,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.42326733,
+            "uv0Y": 0.9907621,
+            "uv3X": 0.5990099,
+            "uv3Y": 0.94457275,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "16",
+          "Value": {
+            "width": 312,
+            "height": 428,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6559406,
+            "uv0Y": 0.62586606,
+            "uv3X": 0.8490099,
+            "uv3Y": 0.3787529,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "17",
+          "Value": {
+            "width": 312,
+            "height": 428,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.31188118,
+            "uv0Y": 0.87528867,
+            "uv3X": 0.50495046,
+            "uv3Y": 0.6281755,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "18",
+          "Value": {
+            "width": 288,
+            "height": 372,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6905941,
+            "uv0Y": 0.8429561,
+            "uv3X": 0.86881185,
+            "uv3Y": 0.6281755,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "19",
+          "Value": {
+            "width": 292,
+            "height": 376,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.5074257,
+            "uv0Y": 0.84526557,
+            "uv3X": 0.6881188,
+            "uv3Y": 0.6281755,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "20",
+          "Value": {
+            "width": 256,
+            "height": 436,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.1509901,
+            "uv0Y": 0.85681295,
+            "uv3X": 0.30940592,
+            "uv3Y": 0.60508084,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "21",
+          "Value": {
+            "width": 256,
+            "height": 436,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.29950494,
+            "uv0Y": 0.47575057,
+            "uv3X": 0.4579208,
+            "uv3Y": 0.22401847,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "22",
+          "Value": {
+            "width": 280,
+            "height": 104,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.25,
+            "uv0Y": 0.93764436,
+            "uv3X": 0.42326733,
+            "uv3Y": 0.87759817,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "23",
+          "Value": {
+            "width": 280,
+            "height": 104,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6039604,
+            "uv0Y": 0.9584296,
+            "uv3X": 0.7772277,
+            "uv3Y": 0.8983834,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "24",
+          "Value": {
+            "width": 280,
+            "height": 104,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.77970296,
+            "uv0Y": 0.9584296,
+            "uv3X": 0.95297027,
+            "uv3Y": 0.8983834,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "25",
+          "Value": {
+            "width": 156,
+            "height": 152,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.74752474,
+            "uv0Y": 0.09006929,
+            "uv3X": 0.8440594,
+            "uv3Y": 0.0023094688,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "26",
+          "Value": {
+            "width": 156,
+            "height": 152,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.1509901,
+            "uv0Y": 0.9468822,
+            "uv3X": 0.24752475,
+            "uv3Y": 0.8591224,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "27",
+          "Value": {
+            "width": 276,
+            "height": 100,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.25,
+            "uv0Y": 0.9976905,
+            "uv3X": 0.42079207,
+            "uv3Y": 0.9399538,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "28",
+          "Value": {
+            "width": 308,
+            "height": 4,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6905941,
+            "uv0Y": 0.84757507,
+            "uv3X": 0.8811881,
+            "uv3Y": 0.84526557,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "29",
+          "Value": {
+            "width": 68,
+            "height": 68,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.85148513,
+            "uv0Y": 0.6096998,
+            "uv3X": 0.89356434,
+            "uv3Y": 0.5704388,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "30",
+          "Value": {
+            "width": 172,
+            "height": 172,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.29950494,
+            "uv0Y": 0.5773672,
+            "uv3X": 0.4059406,
+            "uv3Y": 0.47806004,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "31",
+          "Value": {
+            "width": 64,
+            "height": 64,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.60148513,
+            "uv0Y": 0.9976905,
+            "uv3X": 0.6410891,
+            "uv3Y": 0.960739,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        }
+      ]
+    }
+  }
+]

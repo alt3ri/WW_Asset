@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_ExpressionSele",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 140,
+      "BorderRight": 140,
+      "BorderTop": 140,
+      "BorderBottom": 140,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_Turntable'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/Turntable/TPI_UiActivity_Turntable.0"
+      }
+    }
+  }
+]

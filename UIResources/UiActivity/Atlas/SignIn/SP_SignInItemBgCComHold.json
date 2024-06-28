@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_SignInItemBgCComHold",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 50,
+      "BorderRight": 50,
+      "BorderTop": 50,
+      "BorderBottom": 50,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_SignIn'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/SignIn/TPI_UiActivity_SignIn.0"
+      }
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_ItemBg",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 35,
+      "BorderRight": 40,
+      "BorderTop": 35,
+      "BorderBottom": 42,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity_ActivityTowerGuide'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/ActivityTowerGuide/TPI_UiActivity_ActivityTowerGuide.0"
+      }
+    }
+  }
+]

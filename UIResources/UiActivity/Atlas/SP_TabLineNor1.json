@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_TabLineNor1",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderTop": 50,
+      "BorderBottom": 50,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiActivity'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/TPI_UiActivity.0"
+      }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_UiActivity_Welfare1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1836,
+        "Y": 508
+      },
+      "LightingGuid": "D4FC23BA-4445A12E-B66FB484-54D267ED",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1836,
+    "SizeY": 508,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 932688,
+          "SizeOnDisk": 932688,
+          "OffsetInFile": "0xE4596"
+        },
+        "SizeX": 1836,
+        "SizeY": 508,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_TPI_UiActivity_ActivityBossRush1_UIAtlas",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1756,
+        "Y": 2040
+      },
+      "LightingGuid": "D8A267D9-49FF46EB-9F8693AF-45700BEE",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1756,
+    "SizeY": 2040,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3582240,
+          "SizeOnDisk": 3582240,
+          "OffsetInFile": "0x36B39C"
+        },
+        "SizeX": 1756,
+        "SizeY": 2040,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

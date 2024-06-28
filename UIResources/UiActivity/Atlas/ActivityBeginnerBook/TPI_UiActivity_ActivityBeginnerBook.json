@@ -1,0 +1,134 @@
+[
+  {
+    "Type": "LGUITexturePackerImporterData",
+    "Name": "TPI_UiActivity_ActivityBeginnerBook",
+    "Class": "UScriptClass'LGUITexturePackerImporterData'",
+    "Properties": {
+      "Version": "1.0",
+      "Sprites": [
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityBeginnerBook/SP_BtnListArriveHold.SP_BtnListArriveHold",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityBeginnerBook/SP_BtnListArriveNor.SP_BtnListArriveNor",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityBeginnerBook/SP_BtnListArrivePress.SP_BtnListArrivePress",
+        "/Game/Aki/UI/UIResources/UiActivity/Atlas/ActivityBeginnerBook/SP_MaskFinish.SP_MaskFinish"
+      ],
+      "AtlasTextures": [
+        {
+          "ObjectName": "Texture2D'T_TPI_UiActivity_ActivityBeginnerBook1_UIAtlas'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiActivity/Atlas/ActivityBeginnerBook/T_TPI_UiActivity_ActivityBeginnerBook1_UIAtlas.0"
+        }
+      ],
+      "SpriteAtlasTextureMap": [
+        {
+          "Key": "0",
+          "Value": 0
+        },
+        {
+          "Key": "2",
+          "Value": 0
+        },
+        {
+          "Key": "36",
+          "Value": 0
+        },
+        {
+          "Key": "0",
+          "Value": 26
+        }
+      ],
+      "SpriteInfoMap": [
+        {
+          "Key": "0",
+          "Value": {
+            "width": 80,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6181818,
+            "uv0Y": 0.42857143,
+            "uv3X": 0.79999995,
+            "uv3Y": 0.020408163,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "width": 80,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.8090909,
+            "uv0Y": 0.42857143,
+            "uv3X": 0.99090904,
+            "uv3Y": 0.020408163,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "width": 80,
+            "height": 80,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.6181818,
+            "uv0Y": 0.85714287,
+            "uv3X": 0.79999995,
+            "uv3Y": 0.4489796,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "width": 264,
+            "height": 188,
+            "borderLeft": 0,
+            "borderRight": 0,
+            "borderTop": 0,
+            "borderBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "uv0X": 0.009090909,
+            "uv0Y": 0.97959185,
+            "uv3X": 0.60909086,
+            "uv3Y": 0.020408163,
+            "buv0X": 0.0,
+            "buv0Y": 1.0,
+            "buv3X": 1.0,
+            "buv3Y": 0.0
+          }
+        }
+      ]
+    }
+  }
+]
