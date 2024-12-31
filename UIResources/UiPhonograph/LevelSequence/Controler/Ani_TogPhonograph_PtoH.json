@@ -1,0 +1,899 @@
+[
+  {
+    "Type": "LevelSequence",
+    "Name": "Ani_TogPhonograph_PtoH",
+    "Class": "UScriptClass'LevelSequence'",
+    "Properties": {
+      "MovieScene": {
+        "ObjectName": "MovieScene'Ani_TogPhonograph_PtoH:MovieScene_0'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.2"
+      },
+      "BindingReferences": {
+        "BindingIdToReferences": [
+          {
+            "Key": "CC95BC7F-47785802-311702B1-2BE6C06B",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "A5C876B1-451A0837-2DF4D599-A502BD55",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "C71E5EB1-416F3FB4-ADA814A7-37CFE5E4",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UISpriteComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "22DDA803-484D1B68-44DFF89D-26463950",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "E26DD4DC-46680C2C-9E868990-D0EA0626",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UISpriteComponent"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SequenceDataAsset": {
+        "ObjectName": "KuroSequenceConsoleCommandDataAsset'DA_PerformanceMode_Default'",
+        "ObjectPath": "Client/Content/Aki/Render/Data/SequencePerformanceDA/DA_PerformanceMode_Default.0"
+      },
+      "AssetUserData": [
+        {
+          "ObjectName": "LevelSequencePrefabData'Ani_TogPhonograph_PtoH:LevelSequencePrefabData_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.1"
+        }
+      ],
+      "CompiledData": {
+        "ObjectName": "MovieSceneCompiledData'Ani_TogPhonograph_PtoH:CompiledData'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.11"
+      },
+      "Signature": "FD41FDDD-42892854-3A9F0995-2FC8CC59"
+    }
+  },
+  {
+    "Type": "LevelSequencePrefabData",
+    "Name": "LevelSequencePrefabData_0",
+    "Outer": "Ani_TogPhonograph_PtoH",
+    "Class": "UScriptClass'LevelSequencePrefabData'",
+    "Properties": {
+      "SourcePrefabGuids": [
+        "0A679A88-4426E2BF-6E4F00BA-C5551661"
+      ]
+    }
+  },
+  {
+    "Type": "MovieScene",
+    "Name": "MovieScene_0",
+    "Outer": "Ani_TogPhonograph_PtoH",
+    "Class": "UScriptClass'MovieScene'",
+    "Properties": {
+      "Possessables": [
+        {
+          "Tags": [],
+          "Guid": "A5C876B1-451A0837-2DF4D599-A502BD55",
+          "Name": "PnlPivot",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "22DDA803-484D1B68-44DFF89D-26463950",
+          "Name": "SprBg_Hold",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "C71E5EB1-416F3FB4-ADA814A7-37CFE5E4",
+          "Name": "UISpriteComponent",
+          "ParentGuid": "22DDA803-484D1B68-44DFF89D-26463950"
+        },
+        {
+          "Tags": [],
+          "Guid": "CC95BC7F-47785802-311702B1-2BE6C06B",
+          "Name": "SprBg",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "E26DD4DC-46680C2C-9E868990-D0EA0626",
+          "Name": "UISpriteComponent",
+          "ParentGuid": "CC95BC7F-47785802-311702B1-2BE6C06B"
+        }
+      ],
+      "ObjectBindings": [
+        {
+          "ObjectGuid": "A5C876B1-451A0837-2DF4D599-A502BD55",
+          "BindingName": "PnlPivot",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_TogPhonograph_PtoH:MovieScene_0.MovieScene3DTransformTrack_1'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.4"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "22DDA803-484D1B68-44DFF89D-26463950",
+          "BindingName": "SprBg_Hold",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "C71E5EB1-416F3FB4-ADA814A7-37CFE5E4",
+          "BindingName": "UISpriteComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_TogPhonograph_PtoH:MovieScene_0.MovieSceneFloatTrack_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.14"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "CC95BC7F-47785802-311702B1-2BE6C06B",
+          "BindingName": "SprBg",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "E26DD4DC-46680C2C-9E868990-D0EA0626",
+          "BindingName": "UISpriteComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_TogPhonograph_PtoH:MovieScene_0.MovieSceneFloatTrack_1'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.15"
+            }
+          ]
+        }
+      ],
+      "PlaybackRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 0,
+            "Value": {
+              "Value": 2000
+            }
+          }
+        }
+      },
+      "TickResolution": {
+        "Numerator": 24000
+      },
+      "DisplayRate": {
+        "Numerator": 60
+      },
+      "Signature": "3D805EAB-46ABF5A2-530C50B7-DE7CAC72"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_1",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": -73.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 1.5E-05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 1600
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.98,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.01,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.01,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 1600
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.98,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.01,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.01,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 1600
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.98,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.01,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.01,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "F1711B05-4E6E0885-34D6F089-8A4C8B5F"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_1",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieScene3DTransformTrack_1.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.3"
+        }
+      ],
+      "EvaluationFieldGuid": "A54BA64F-48B6C5B9-7B621C8B-33FC81BC",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieScene3DTransformTrack_1.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.3"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "A54BA64F-48B6C5B9-7B621C8B-33FC81BC"
+    }
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneCompiledData",
+    "Name": "CompiledData",
+    "Outer": "Ani_TogPhonograph_PtoH",
+    "Class": "UScriptClass'MovieSceneCompiledData'",
+    "Properties": {
+      "EntityComponentField": {
+        "PersistentEntityTree": {
+          "SerializedData": {
+            "Data": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 3,
+                  "Capacity": 3
+                }
+              ],
+              "Items": [
+                {
+                  "EntityIndex": 0,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 1,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 2,
+                  "MetaDataIndex": -1
+                }
+              ]
+            },
+            "RootNode": {
+              "Range": {
+                "LowerBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                },
+                "UpperBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                }
+              },
+              "Parent": {
+                "ChildrenHandle": {
+                  "EntryIndex": -1
+                },
+                "Index": -1
+              },
+              "ChildrenID": {
+                "EntryIndex": -1
+              },
+              "DataID": {
+                "EntryIndex": 0
+              }
+            },
+            "ChildNodes": {
+              "Entries": [],
+              "Items": []
+            }
+          }
+        },
+        "Entities": [
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieScene3DTransformTrack_1.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.3"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 0
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.12"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 1
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieSceneFloatTrack_1.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.13"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 2
+          }
+        ],
+        "SharedMetaData": [
+          {
+            "ObjectBindingID": "A5C876B1-451A0837-2DF4D599-A502BD55"
+          },
+          {
+            "ObjectBindingID": "C71E5EB1-416F3FB4-ADA814A7-37CFE5E4"
+          },
+          {
+            "ObjectBindingID": "E26DD4DC-46680C2C-9E868990-D0EA0626"
+          }
+        ]
+      },
+      "CompiledSignature": "FD41FDDD-42892854-3A9F0995-2FC8CC59",
+      "CompilerVersion": "7D4B9809-2FAC4A6B-964ECF72-D8279EF8",
+      "AccumulatedMask": {
+        "bEntityComponentField": true
+      },
+      "AllocatedMask": {
+        "bEntityComponentField": true
+      }
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_0",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 1600
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "449ECC4D-4B1B353A-FC8FA583-EFA00E0B"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_1",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 1600
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.8,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "718100FB-466AA51A-E194CDB6-CD810E7C"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_0",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.12"
+        }
+      ],
+      "EvaluationFieldGuid": "01411209-4E289F68-1E28F283-83B63537",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.12"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "01411209-4E289F68-1E28F283-83B63537"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_1",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieSceneFloatTrack_1.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.13"
+        }
+      ],
+      "EvaluationFieldGuid": "B0CF7C8C-48657988-B60E368D-473DEEC7",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_TogPhonograph_PtoH:MovieScene_0.MovieSceneFloatTrack_1.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Controler/Ani_TogPhonograph_PtoH.13"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "B0CF7C8C-48657988-B60E368D-473DEEC7"
+    }
+  }
+]

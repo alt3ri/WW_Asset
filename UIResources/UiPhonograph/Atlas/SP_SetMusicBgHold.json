@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_SetMusicBgHold",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 40,
+      "BorderRight": 40,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiPhonograph'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/Atlas/TPI_UiPhonograph.0"
+      }
+    }
+  }
+]

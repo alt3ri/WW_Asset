@@ -1,0 +1,4508 @@
+[
+  {
+    "Type": "Function",
+    "Name": "ExecuteUbergraph_SequenceDirector",
+    "Outer": "SequenceDirector_C",
+    "Class": "UScriptClass'Function'",
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "EntryPoint",
+        "Flags": "RF_Public",
+        "ElementSize": 4,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm"
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "K2Node_CustomEvent_DefaultScrollView",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyClass": {
+          "ObjectName": "Class'UIContainerActor'",
+          "ObjectPath": "/Script/LGUI"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Final | FUNC_UbergraphFunction"
+  },
+  {
+    "Type": "Function",
+    "Name": "ScrollStart",
+    "Outer": "SequenceDirector_C",
+    "Class": "UScriptClass'Function'",
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "DefaultScrollView",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm",
+        "PropertyClass": {
+          "ObjectName": "Class'UIContainerActor'",
+          "ObjectPath": "/Script/LGUI"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "Function",
+    "Name": "SequenceEvent__ENTRYPOINTSequenceDirector_0",
+    "Outer": "SequenceDirector_C",
+    "Class": "UScriptClass'Function'",
+    "ChildProperties": [
+      {
+        "Type": "ObjectProperty",
+        "Name": "DefaultScrollView",
+        "Flags": "RF_Public",
+        "ElementSize": 8,
+        "PropertyFlags": "BlueprintVisible | BlueprintReadOnly | Parm",
+        "PropertyClass": {
+          "ObjectName": "Class'UIContainerActor'",
+          "ObjectPath": "/Script/LGUI"
+        }
+      }
+    ],
+    "FunctionFlags": "FUNC_Public | FUNC_BlueprintCallable | FUNC_BlueprintEvent"
+  },
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "SequenceDirector_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "Properties": {
+      "UberGraphFunction": {
+        "ObjectName": "Function'SequenceDirector_C:ExecuteUbergraph_SequenceDirector'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.0"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "Class'LevelSequenceDirector'",
+      "ObjectPath": "/Script/LevelSequence"
+    },
+    "Children": [
+      {
+        "ObjectName": "Function'SequenceDirector_C:SequenceEvent__ENTRYPOINTSequenceDirector_0'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.2"
+      },
+      {
+        "ObjectName": "Function'SequenceDirector_C:ScrollStart'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.1"
+      },
+      {
+        "ObjectName": "Function'SequenceDirector_C:ExecuteUbergraph_SequenceDirector'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.0"
+      }
+    ],
+    "ChildProperties": [
+      {
+        "Type": "StructProperty",
+        "Name": "UberGraphFrame",
+        "Flags": "RF_Public | RF_LoadCompleted",
+        "ElementSize": 16,
+        "PropertyFlags": "Transient | DuplicateTransient",
+        "Struct": {
+          "ObjectName": "ScriptStruct'PointerToUberGraphFrame'",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FuncMap": {
+      "ExecuteUbergraph_SequenceDirector": {
+        "ObjectName": "Function'SequenceDirector_C:ExecuteUbergraph_SequenceDirector'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.0"
+      },
+      "ScrollStart": {
+        "ObjectName": "Function'SequenceDirector_C:ScrollStart'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.1"
+      },
+      "SequenceEvent__ENTRYPOINTSequenceDirector_0": {
+        "ObjectName": "Function'SequenceDirector_C:SequenceEvent__ENTRYPOINTSequenceDirector_0'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.2"
+      }
+    },
+    "ClassFlags": "CLASS_Optional | CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "SequenceDirector_C'Default__SequenceDirector_C'",
+      "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.4"
+    }
+  },
+  {
+    "Type": "SequenceDirector_C",
+    "Name": "Default__SequenceDirector_C",
+    "Class": "BlueprintGeneratedClass'Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.SequenceDirector_C'",
+    "Properties": {
+      "UberGraphFrame": {}
+    }
+  },
+  {
+    "Type": "LevelSequence",
+    "Name": "Ani_PhinigraphMain_Start",
+    "Class": "UScriptClass'LevelSequence'",
+    "Properties": {
+      "MovieScene": {
+        "ObjectName": "MovieScene'Ani_PhinigraphMain_Start:MovieScene_0'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.7"
+      },
+      "BindingReferences": {
+        "BindingIdToReferences": [
+          {
+            "Key": "EAC97900-430913A3-41150484-7A775EA0",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "ED82CD70-4BECF7E2-A207BDAE-A5D7251A",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "3BA7A1A1-418CF0D4-ED49A280-9DF00BD0",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "44E9C569-4F2617F1-F39D9693-1217DD5A",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UIItemComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "29428111-4DA4FAB6-939B7E92-ACAABDD4",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "D7BF640D-4B192949-D88C5780-C13EA9A0",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UIItemComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "F8921F2B-4FE6FA21-8D27BC94-0FF05D81",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "539F7449-4F9CAC9B-55725FB7-3A4E0735",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UIItemComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "FA26B2EE-46AE754E-4D7579B1-2F994DEB",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "2AF48023-42C97F5C-3B583DBC-74CBAF2C",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UISpriteComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "E0A1E788-4F514B6B-1E8A30A7-8EDAA81A",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "4D72A90B-46C87439-598FB3A7-7102E3DF",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "3283AC38-46D791BC-E04EB9A8-D4EFD0EE",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "D9970E14-416BE92D-3666408A-2B4DDA22",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "E33D1F45-40C6A667-F66D679F-FD520481",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "47F91459-4AC235B1-63B04D87-9DA1A046",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "8271D6EE-4BD06628-30DBA585-B9967D0C",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "20741EAF-472B2BA6-08043689-620D9DE2",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "8748E236-4C3C70B9-16EE1A87-B78A6583",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UIItemComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "287FAF38-420219E3-986283AD-A7388ABB",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "F0B90E36-4348B566-836335BB-D4556202",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UIItemComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "BCFCFE6C-432899C2-78905B84-3DD2E95F",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "29A61947-4B8B54FD-78A04FAD-6589D477",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "F2E65C61-4013AA52-0B938685-E739F410",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "56330A61-43B30843-C9451F83-0C62AF7A",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UIItemComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "ADCD8137-4B46DF45-D799F486-EA896B6E",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "2ABE6621-4784002F-63B6D087-CEB2A155",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UIItemComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "CC4031A3-4F9D3700-F14EE485-6D99F38C",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "0111FD66-46EDBF58-9B44CD8B-E7C022FE",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextComponent"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "DirectorClass": {
+        "ObjectName": "BlueprintGeneratedClass'SequenceDirector_C'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.3"
+      },
+      "SequenceDataAsset": {
+        "ObjectName": "KuroSequenceConsoleCommandDataAsset'DA_PerformanceMode_Default'",
+        "ObjectPath": "Client/Content/Aki/Render/Data/SequencePerformanceDA/DA_PerformanceMode_Default.0"
+      },
+      "AssetUserData": [
+        {
+          "ObjectName": "LevelSequencePrefabData'Ani_PhinigraphMain_Start:LevelSequencePrefabData_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.6"
+        }
+      ],
+      "CompiledData": {
+        "ObjectName": "MovieSceneCompiledData'Ani_PhinigraphMain_Start:CompiledData'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.54"
+      },
+      "Signature": "D98B90C3-41058C25-DE562BBB-D60D86A5"
+    }
+  },
+  {
+    "Type": "LevelSequencePrefabData",
+    "Name": "LevelSequencePrefabData_0",
+    "Outer": "Ani_PhinigraphMain_Start",
+    "Class": "UScriptClass'LevelSequencePrefabData'",
+    "Properties": {
+      "SourcePrefabGuids": [
+        "0364CB72-4985515A-AD675EBF-38BB9427"
+      ]
+    }
+  },
+  {
+    "Type": "MovieScene",
+    "Name": "MovieScene_0",
+    "Outer": "Ani_PhinigraphMain_Start",
+    "Class": "UScriptClass'MovieScene'",
+    "Properties": {
+      "Possessables": [
+        {
+          "Tags": [],
+          "Guid": "CC4031A3-4F9D3700-F14EE485-6D99F38C",
+          "Name": "UiItem_Caption",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "44E9C569-4F2617F1-F39D9693-1217DD5A",
+          "Name": "UIItemComponent",
+          "ParentGuid": "CC4031A3-4F9D3700-F14EE485-6D99F38C"
+        },
+        {
+          "Tags": [],
+          "Guid": "8271D6EE-4BD06628-30DBA585-B9967D0C",
+          "Name": "DefaultScrollView",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "D7BF640D-4B192949-D88C5780-C13EA9A0",
+          "Name": "UIItemComponent",
+          "ParentGuid": "8271D6EE-4BD06628-30DBA585-B9967D0C"
+        },
+        {
+          "Tags": [],
+          "Guid": "E33D1F45-40C6A667-F66D679F-FD520481",
+          "Name": "PnlBottom",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "539F7449-4F9CAC9B-55725FB7-3A4E0735",
+          "Name": "UIItemComponent",
+          "ParentGuid": "E33D1F45-40C6A667-F66D679F-FD520481"
+        },
+        {
+          "Tags": [],
+          "Guid": "2AF48023-42C97F5C-3B583DBC-74CBAF2C",
+          "Name": "UISpriteComponent",
+          "ParentGuid": "3283AC38-46D791BC-E04EB9A8-D4EFD0EE"
+        },
+        {
+          "Tags": [],
+          "Guid": "3283AC38-46D791BC-E04EB9A8-D4EFD0EE",
+          "Name": "SprSliderBg",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "29428111-4DA4FAB6-939B7E92-ACAABDD4",
+          "Name": "DefaultScrollView",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "3BA7A1A1-418CF0D4-ED49A280-9DF00BD0",
+          "Name": "BtnSetBgMusic",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "EAC97900-430913A3-41150484-7A775EA0",
+          "Name": "TxtDiscListName",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "D9970E14-416BE92D-3666408A-2B4DDA22",
+          "Name": "UITextComponent",
+          "ParentGuid": "EAC97900-430913A3-41150484-7A775EA0"
+        },
+        {
+          "Tags": [],
+          "Guid": "ED82CD70-4BECF7E2-A207BDAE-A5D7251A",
+          "Name": "UITextureComponent",
+          "ParentGuid": "F8921F2B-4FE6FA21-8D27BC94-0FF05D81"
+        },
+        {
+          "Tags": [],
+          "Guid": "F8921F2B-4FE6FA21-8D27BC94-0FF05D81",
+          "Name": "TexBottom",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "FA26B2EE-46AE754E-4D7579B1-2F994DEB",
+          "Name": "TexLeftYellow",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "47F91459-4AC235B1-63B04D87-9DA1A046",
+          "Name": "UITextureComponent",
+          "ParentGuid": "FA26B2EE-46AE754E-4D7579B1-2F994DEB"
+        },
+        {
+          "Tags": [],
+          "Guid": "E0A1E788-4F514B6B-1E8A30A7-8EDAA81A",
+          "Name": "TexLeft",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "20741EAF-472B2BA6-08043689-620D9DE2",
+          "Name": "UITextureComponent",
+          "ParentGuid": "E0A1E788-4F514B6B-1E8A30A7-8EDAA81A"
+        },
+        {
+          "Tags": [],
+          "Guid": "8748E236-4C3C70B9-16EE1A87-B78A6583",
+          "Name": "UIItemComponent",
+          "ParentGuid": "29428111-4DA4FAB6-939B7E92-ACAABDD4"
+        },
+        {
+          "Tags": [],
+          "Guid": "4D72A90B-46C87439-598FB3A7-7102E3DF",
+          "Name": "VerticalScrollbar",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "F0B90E36-4348B566-836335BB-D4556202",
+          "Name": "UIItemComponent",
+          "ParentGuid": "4D72A90B-46C87439-598FB3A7-7102E3DF"
+        },
+        {
+          "Tags": [],
+          "Guid": "287FAF38-420219E3-986283AD-A7388ABB",
+          "Name": "TxtName",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "29A61947-4B8B54FD-78A04FAD-6589D477",
+          "Name": "UITextComponent",
+          "ParentGuid": "287FAF38-420219E3-986283AD-A7388ABB"
+        },
+        {
+          "Tags": [],
+          "Guid": "BCFCFE6C-432899C2-78905B84-3DD2E95F",
+          "Name": "PnlTotalNum",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "56330A61-43B30843-C9451F83-0C62AF7A",
+          "Name": "UIItemComponent",
+          "ParentGuid": "BCFCFE6C-432899C2-78905B84-3DD2E95F"
+        },
+        {
+          "Tags": [],
+          "Guid": "F2E65C61-4013AA52-0B938685-E739F410",
+          "Name": "UiItem_LayerBg_Prefab",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "2ABE6621-4784002F-63B6D087-CEB2A155",
+          "Name": "UIItemComponent",
+          "ParentGuid": "F2E65C61-4013AA52-0B938685-E739F410"
+        },
+        {
+          "Tags": [],
+          "Guid": "ADCD8137-4B46DF45-D799F486-EA896B6E",
+          "Name": "TxtDescript",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "0111FD66-46EDBF58-9B44CD8B-E7C022FE",
+          "Name": "UITextComponent",
+          "ParentGuid": "ADCD8137-4B46DF45-D799F486-EA896B6E"
+        }
+      ],
+      "ObjectBindings": [
+        {
+          "ObjectGuid": "CC4031A3-4F9D3700-F14EE485-6D99F38C",
+          "BindingName": "UiItem_Caption",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "44E9C569-4F2617F1-F39D9693-1217DD5A",
+          "BindingName": "UIItemComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_1'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.81"
+            },
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_2'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.90"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "8271D6EE-4BD06628-30DBA585-B9967D0C",
+          "BindingName": "DefaultScrollView",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "D7BF640D-4B192949-D88C5780-C13EA9A0",
+          "BindingName": "UIItemComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_3'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.94"
+            },
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_4'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.95"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "E33D1F45-40C6A667-F66D679F-FD520481",
+          "BindingName": "PnlBottom",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "539F7449-4F9CAC9B-55725FB7-3A4E0735",
+          "BindingName": "UIItemComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_5'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.96"
+            },
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_7'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.98"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "2AF48023-42C97F5C-3B583DBC-74CBAF2C",
+          "BindingName": "UISpriteComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_6'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.97"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "3283AC38-46D791BC-E04EB9A8-D4EFD0EE",
+          "BindingName": "SprSliderBg",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "29428111-4DA4FAB6-939B7E92-ACAABDD4",
+          "BindingName": "DefaultScrollView",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneEventTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneEventTrack_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.55"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "3BA7A1A1-418CF0D4-ED49A280-9DF00BD0",
+          "BindingName": "BtnSetBgMusic",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneEventTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneEventTrack_1'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.56"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "EAC97900-430913A3-41150484-7A775EA0",
+          "BindingName": "TxtDiscListName",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "D9970E14-416BE92D-3666408A-2B4DDA22",
+          "BindingName": "UITextComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_8'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.99"
+            },
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_9'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.100"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "ED82CD70-4BECF7E2-A207BDAE-A5D7251A",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_11'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.82"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "F8921F2B-4FE6FA21-8D27BC94-0FF05D81",
+          "BindingName": "TexBottom",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "FA26B2EE-46AE754E-4D7579B1-2F994DEB",
+          "BindingName": "TexLeftYellow",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "47F91459-4AC235B1-63B04D87-9DA1A046",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_12'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.83"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "E0A1E788-4F514B6B-1E8A30A7-8EDAA81A",
+          "BindingName": "TexLeft",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "20741EAF-472B2BA6-08043689-620D9DE2",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_13'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.84"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "8748E236-4C3C70B9-16EE1A87-B78A6583",
+          "BindingName": "UIItemComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_14'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.85"
+            },
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_15'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.86"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "4D72A90B-46C87439-598FB3A7-7102E3DF",
+          "BindingName": "VerticalScrollbar",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "F0B90E36-4348B566-836335BB-D4556202",
+          "BindingName": "UIItemComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_16'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.87"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "287FAF38-420219E3-986283AD-A7388ABB",
+          "BindingName": "TxtName",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "29A61947-4B8B54FD-78A04FAD-6589D477",
+          "BindingName": "UITextComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_17'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.88"
+            },
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_19'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.89"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "BCFCFE6C-432899C2-78905B84-3DD2E95F",
+          "BindingName": "PnlTotalNum",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "56330A61-43B30843-C9451F83-0C62AF7A",
+          "BindingName": "UIItemComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_20'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.91"
+            },
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_21'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.92"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "F2E65C61-4013AA52-0B938685-E739F410",
+          "BindingName": "UiItem_LayerBg_Prefab",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "2ABE6621-4784002F-63B6D087-CEB2A155",
+          "BindingName": "UIItemComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_22'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.93"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "ADCD8137-4B46DF45-D799F486-EA896B6E",
+          "BindingName": "TxtDescript",
+          "Tracks": []
+        },
+        {
+          "ObjectGuid": "0111FD66-46EDBF58-9B44CD8B-E7C022FE",
+          "BindingName": "UITextComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.80"
+            }
+          ]
+        }
+      ],
+      "PlaybackRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 0,
+            "Value": {
+              "Value": 40
+            }
+          }
+        }
+      },
+      "TickResolution": {
+        "Numerator": 60
+      },
+      "DisplayRate": {
+        "Numerator": 60
+      },
+      "Signature": "EC69B49B-4CD45EED-1FB9FF9A-36A18754"
+    }
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneEventTriggerSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneEventTriggerSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneEventTriggerSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneEventTriggerSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneCompiledData",
+    "Name": "CompiledData",
+    "Outer": "Ani_PhinigraphMain_Start",
+    "Class": "UScriptClass'MovieSceneCompiledData'",
+    "Properties": {
+      "EntityComponentField": {
+        "PersistentEntityTree": {
+          "SerializedData": {
+            "Data": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 21,
+                  "Capacity": 21
+                }
+              ],
+              "Items": [
+                {
+                  "EntityIndex": 0,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 1,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 2,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 3,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 4,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 5,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 6,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 8,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 9,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 10,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 11,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 12,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 13,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 14,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 15,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 16,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 17,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 18,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 19,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 20,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 21,
+                  "MetaDataIndex": -1
+                }
+              ]
+            },
+            "RootNode": {
+              "Range": {
+                "LowerBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                },
+                "UpperBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                }
+              },
+              "Parent": {
+                "ChildrenHandle": {
+                  "EntryIndex": -1
+                },
+                "Index": -1
+              },
+              "ChildrenID": {
+                "EntryIndex": -1
+              },
+              "DataID": {
+                "EntryIndex": 0
+              }
+            },
+            "ChildNodes": {
+              "Entries": [],
+              "Items": []
+            }
+          }
+        },
+        "OneShotEntityTree": {
+          "SerializedData": {
+            "Data": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 1,
+                  "Capacity": 1
+                }
+              ],
+              "Items": [
+                {
+                  "EntityIndex": 7,
+                  "MetaDataIndex": -1
+                }
+              ]
+            },
+            "RootNode": {
+              "Range": {
+                "LowerBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                },
+                "UpperBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                }
+              },
+              "Parent": {
+                "ChildrenHandle": {
+                  "EntryIndex": -1
+                },
+                "Index": -1
+              },
+              "ChildrenID": {
+                "EntryIndex": 0
+              },
+              "DataID": {
+                "EntryIndex": -1
+              }
+            },
+            "ChildNodes": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 1,
+                  "Capacity": 1
+                }
+              ],
+              "Items": [
+                {
+                  "Range": {
+                    "LowerBound": {
+                      "Type": 1,
+                      "Value": {
+                        "Value": 10
+                      }
+                    },
+                    "UpperBound": {
+                      "Type": 1,
+                      "Value": {
+                        "Value": 10
+                      }
+                    }
+                  },
+                  "Parent": {
+                    "ChildrenHandle": {
+                      "EntryIndex": -1
+                    },
+                    "Index": 0
+                  },
+                  "ChildrenID": {
+                    "EntryIndex": -1
+                  },
+                  "DataID": {
+                    "EntryIndex": 0
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "Entities": [
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_1.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.60"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 0
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_2.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.69"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 1
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_3.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.73"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 2
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_4.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.74"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 3
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_5.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.75"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 4
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_7.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.77"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 5
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_6.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.76"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 6
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneEventTriggerSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneEventTrack_0.MovieSceneEventTriggerSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.57"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 7
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_8.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.78"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 8
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_9.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.79"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 9
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_11.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.61"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 10
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_12.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.62"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 11
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_13.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.63"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 12
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_14.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.64"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 13
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_15.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.65"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 14
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_16.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.66"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 15
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_17.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.67"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 16
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_19.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.68"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 17
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_20.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.70"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 18
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_21.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.71"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 19
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_22.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.72"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 20
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.59"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 21
+          }
+        ],
+        "SharedMetaData": [
+          {
+            "ObjectBindingID": "44E9C569-4F2617F1-F39D9693-1217DD5A"
+          },
+          {
+            "ObjectBindingID": "44E9C569-4F2617F1-F39D9693-1217DD5A"
+          },
+          {
+            "ObjectBindingID": "D7BF640D-4B192949-D88C5780-C13EA9A0"
+          },
+          {
+            "ObjectBindingID": "D7BF640D-4B192949-D88C5780-C13EA9A0"
+          },
+          {
+            "ObjectBindingID": "539F7449-4F9CAC9B-55725FB7-3A4E0735"
+          },
+          {
+            "ObjectBindingID": "539F7449-4F9CAC9B-55725FB7-3A4E0735"
+          },
+          {
+            "ObjectBindingID": "2AF48023-42C97F5C-3B583DBC-74CBAF2C"
+          },
+          {
+            "ObjectBindingID": "29428111-4DA4FAB6-939B7E92-ACAABDD4"
+          },
+          {
+            "ObjectBindingID": "D9970E14-416BE92D-3666408A-2B4DDA22"
+          },
+          {
+            "ObjectBindingID": "D9970E14-416BE92D-3666408A-2B4DDA22"
+          },
+          {
+            "ObjectBindingID": "ED82CD70-4BECF7E2-A207BDAE-A5D7251A"
+          },
+          {
+            "ObjectBindingID": "47F91459-4AC235B1-63B04D87-9DA1A046"
+          },
+          {
+            "ObjectBindingID": "20741EAF-472B2BA6-08043689-620D9DE2"
+          },
+          {
+            "ObjectBindingID": "8748E236-4C3C70B9-16EE1A87-B78A6583"
+          },
+          {
+            "ObjectBindingID": "8748E236-4C3C70B9-16EE1A87-B78A6583"
+          },
+          {
+            "ObjectBindingID": "F0B90E36-4348B566-836335BB-D4556202"
+          },
+          {
+            "ObjectBindingID": "29A61947-4B8B54FD-78A04FAD-6589D477"
+          },
+          {
+            "ObjectBindingID": "29A61947-4B8B54FD-78A04FAD-6589D477"
+          },
+          {
+            "ObjectBindingID": "56330A61-43B30843-C9451F83-0C62AF7A"
+          },
+          {
+            "ObjectBindingID": "56330A61-43B30843-C9451F83-0C62AF7A"
+          },
+          {
+            "ObjectBindingID": "2ABE6621-4784002F-63B6D087-CEB2A155"
+          },
+          {
+            "ObjectBindingID": "0111FD66-46EDBF58-9B44CD8B-E7C022FE"
+          }
+        ]
+      },
+      "TrackTemplateField": {
+        "Ranges": [
+          {
+            "Value": {
+              "LowerBound": {
+                "Type": 2,
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": 2,
+                "Value": {
+                  "Value": 0
+                }
+              }
+            }
+          }
+        ],
+        "Groups": [
+          {
+            "LUTIndices": [],
+            "TrackLUT": [],
+            "SectionLUT": []
+          }
+        ],
+        "MetaData": [
+          {
+            "ActiveSequences": [
+              {
+                "Value": 0
+              }
+            ],
+            "ActiveEntities": []
+          }
+        ]
+      },
+      "CompiledSignature": "D98B90C3-41058C25-DE562BBB-D60D86A5",
+      "CompilerVersion": "7D4B9809-2FAC4A6B-964ECF72-D8279EF8",
+      "AccumulatedMask": {
+        "bEvaluationTemplate": true,
+        "bEvaluationTemplateField": true,
+        "bEntityComponentField": true
+      },
+      "AllocatedMask": {
+        "bEvaluationTemplate": true,
+        "bEvaluationTemplateField": true,
+        "bEntityComponentField": true
+      }
+    }
+  },
+  {
+    "Type": "MovieSceneEventTrack",
+    "Name": "MovieSceneEventTrack_0",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneEventTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneEventTriggerSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneEventTrack_0.MovieSceneEventTriggerSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.57"
+        }
+      ],
+      "EvaluationFieldGuid": "87ECAF25-42974605-6B465185-9A87ADE0",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneEventTriggerSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneEventTrack_0.MovieSceneEventTriggerSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.57"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "87ECAF25-42974605-6B465185-9A87ADE0"
+    }
+  },
+  {
+    "Type": "MovieSceneEventTrack",
+    "Name": "MovieSceneEventTrack_1",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneEventTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneEventTriggerSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneEventTrack_1.MovieSceneEventTriggerSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.58"
+        }
+      ],
+      "EvaluationFieldGuid": "2046E2F9-44663EC4-98C05590-6EF54B8A",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneEventTriggerSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneEventTrack_1.MovieSceneEventTriggerSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.58"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "2046E2F9-44663EC4-98C05590-6EF54B8A"
+    }
+  },
+  {
+    "Type": "MovieSceneEventTriggerSection",
+    "Name": "MovieSceneEventTriggerSection_0",
+    "Outer": "MovieSceneEventTrack_0",
+    "Class": "UScriptClass'MovieSceneEventTriggerSection'",
+    "Properties": {
+      "EventChannel": {
+        "KeyTimes": [
+          {
+            "Value": 10
+          }
+        ],
+        "KeyValues": [
+          {
+            "Ptrs": {
+              "Function": {
+                "ObjectName": "Function'SequenceDirector_C:SequenceEvent__ENTRYPOINTSequenceDirector_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.2"
+              },
+              "BoundObjectProperty": {
+                "Path": [
+                  "DefaultScrollView"
+                ],
+                "ResolvedOwner": {
+                  "ObjectName": "Function'SequenceDirector_C:SequenceEvent__ENTRYPOINTSequenceDirector_0'",
+                  "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.2"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "Signature": "3409C833-4D9938C1-8C49338F-9B016489"
+    }
+  },
+  {
+    "Type": "MovieSceneEventTriggerSection",
+    "Name": "MovieSceneEventTriggerSection_0",
+    "Outer": "MovieSceneEventTrack_1",
+    "Class": "UScriptClass'MovieSceneEventTriggerSection'",
+    "Properties": {
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "Signature": "12CD3EA2-405288FD-FEBCFB91-D34093DE"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_0",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": false,
+        "TickResolution": {
+          "Numerator": 60000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "F5B73FAE-4431A183-D7D1B5BC-1347EFDF"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_1",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 10
+          },
+          {
+            "Value": 20
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "D08260B6-4C954113-FB143087-5CF3BF4B"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_11",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 25
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "3856DE41-467C5792-E8F521AB-2E069055"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_12",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 25
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "A7E30F96-40990F2D-36B944A5-B3A76269"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_13",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 15
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "B61DC183-4B1CEF76-7B1AA3AE-B71697D5"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_14",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 5
+          },
+          {
+            "Value": 20
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "3023BF70-44190BD4-04659A94-C2FCCE79"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_15",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 30
+          }
+        ],
+        "Values": [
+          {
+            "Value": 316.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 416.0,
+            "Tangent": {
+              "ArriveTangent": 6.114694E-07,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.415905,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 316.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "A0809F02-4ADFDF14-BE9D3299-D77B4B64"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_16",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 12
+          },
+          {
+            "Value": 22
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "86425E4F-400BCB50-67D7839A-0D0F6D65"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_17",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 15
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "AD4698A7-4C1E14F1-EB82CE96-98E41A05"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_19",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 20
+          }
+        ],
+        "Values": [
+          {
+            "Value": 395.495,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 425.495,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 395.495,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "30DCE8C4-4B87207D-D155D5A2-A8F881DE"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_2",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 10
+          },
+          {
+            "Value": 25
+          }
+        ],
+        "Values": [
+          {
+            "Value": 50.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": -0.033386,
+            "Tangent": {
+              "ArriveTangent": 7.6205396E-07,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.33372068,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 50.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "D2B53B30-44C574EF-A932C1A1-BB74E9E9"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_20",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 20
+          }
+        ],
+        "Values": [
+          {
+            "Value": 683.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 713.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.24993312,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 683.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "682CE94E-4B6435E7-F8F146A9-56FA5F08"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_21",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 15
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "CC7D69D1-44C4B4EB-CD2A0B84-43DD5C1B"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_22",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": false,
+        "TickResolution": {
+          "Numerator": 60000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "41302F4D-46E895BF-A2749189-AC297833"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_3",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 20
+          }
+        ],
+        "Values": [
+          {
+            "Value": -92.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 58.0,
+            "Tangent": {
+              "ArriveTangent": 1.5407768E-06,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.33011034,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": -92.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "1669B9C4-456B7AA0-AF068DA0-6D2CC0A0"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_4",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 10
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "430168A4-4D8012F6-70B09EB8-8C46088B"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_5",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 10
+          },
+          {
+            "Value": 25
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "DEC3412A-4921B525-2192ACBE-EF802A58"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_6",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 10
+          },
+          {
+            "Value": 20
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "A2245E17-4C8F716C-704CF9A5-29E02292"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_7",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 10
+          },
+          {
+            "Value": 30
+          }
+        ],
+        "Values": [
+          {
+            "Value": 95.00049,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 195.00049,
+            "Tangent": {
+              "ArriveTangent": 7.6488027E-07,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.33248752,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 95.00049,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "D92747DE-47857F8F-8B0223A9-BF7E3079"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_8",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 10
+          },
+          {
+            "Value": 24
+          }
+        ],
+        "Values": [
+          {
+            "Value": 128.9999,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 148.9999,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 128.9999,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "9C50D051-474EF3A1-D1469696-D72F210F"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_9",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 10
+          },
+          {
+            "Value": 20
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 60,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "BFCE72A6-4F776FF3-15074290-03F6FD78"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_0",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.59"
+        }
+      ],
+      "EvaluationFieldGuid": "4E124B20-4CCDBA81-CEE49E9F-83985DA4",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_0.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.59"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "4E124B20-4CCDBA81-CEE49E9F-83985DA4"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_1",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_1.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.60"
+        }
+      ],
+      "EvaluationFieldGuid": "D1D50EB3-41254A1C-F4BA3DB0-5FD5C3F6",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_1.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.60"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "D1D50EB3-41254A1C-F4BA3DB0-5FD5C3F6"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_11",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_11.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.61"
+        }
+      ],
+      "EvaluationFieldGuid": "944A1554-468A9723-ED62C8A7-F6488AC8",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_11.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.61"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "944A1554-468A9723-ED62C8A7-F6488AC8"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_12",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_12.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.62"
+        }
+      ],
+      "EvaluationFieldGuid": "7C3EABEA-4138A157-25E33E9F-AFE1A84C",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_12.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.62"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "7C3EABEA-4138A157-25E33E9F-AFE1A84C"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_13",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_13.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.63"
+        }
+      ],
+      "EvaluationFieldGuid": "D03390B7-4244B377-5D7EACA8-C37DFACA",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_13.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.63"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "D03390B7-4244B377-5D7EACA8-C37DFACA"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_14",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_14.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.64"
+        }
+      ],
+      "EvaluationFieldGuid": "35E96CE8-41793024-896511B8-A2EE5253",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_14.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.64"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "35E96CE8-41793024-896511B8-A2EE5253"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_15",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "anchorOffsetX",
+        "PropertyPath": "widget.anchorOffsetX"
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_15.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.65"
+        }
+      ],
+      "EvaluationFieldGuid": "FE03E192-47C39E54-42886180-3BD12068",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_15.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.65"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "FE03E192-47C39E54-42886180-3BD12068"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_16",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_16.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.66"
+        }
+      ],
+      "EvaluationFieldGuid": "A18D53A7-4929080F-0E0B8598-B163D248",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_16.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.66"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "A18D53A7-4929080F-0E0B8598-B163D248"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_17",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_17.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.67"
+        }
+      ],
+      "EvaluationFieldGuid": "EAF55392-4F0D0858-6F88B9A9-DEF91B10",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_17.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.67"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "EAF55392-4F0D0858-6F88B9A9-DEF91B10"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_19",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "anchorOffsetX",
+        "PropertyPath": "widget.anchorOffsetX"
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_19.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.68"
+        }
+      ],
+      "EvaluationFieldGuid": "E790F0DB-4F5C8038-29F5E0BD-69A7A2AD",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_19.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.68"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "E790F0DB-4F5C8038-29F5E0BD-69A7A2AD"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_2",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "anchorOffsetY",
+        "PropertyPath": "widget.anchorOffsetY"
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_2.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.69"
+        }
+      ],
+      "EvaluationFieldGuid": "2DCE5BE9-4D671E18-059F37B2-51CAB0E0",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_2.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.69"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "2DCE5BE9-4D671E18-059F37B2-51CAB0E0"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_20",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "anchorOffsetX",
+        "PropertyPath": "widget.anchorOffsetX"
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_20.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.70"
+        }
+      ],
+      "EvaluationFieldGuid": "610FE3B8-445923DF-02518398-68EB0FF7",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_20.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.70"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "610FE3B8-445923DF-02518398-68EB0FF7"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_21",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_21.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.71"
+        }
+      ],
+      "EvaluationFieldGuid": "3AD4180B-4DF8483D-75D8C891-9BBA81B6",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_21.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.71"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "3AD4180B-4DF8483D-75D8C891-9BBA81B6"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_22",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_22.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.72"
+        }
+      ],
+      "EvaluationFieldGuid": "A086BD58-47F012D0-E8521E94-CC502EF5",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_22.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.72"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "A086BD58-47F012D0-E8521E94-CC502EF5"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_3",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "anchorOffsetX",
+        "PropertyPath": "widget.anchorOffsetX"
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_3.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.73"
+        }
+      ],
+      "EvaluationFieldGuid": "C7DE37DC-485F1E51-5FF6698E-B397D0F9",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_3.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.73"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "C7DE37DC-485F1E51-5FF6698E-B397D0F9"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_4",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_4.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.74"
+        }
+      ],
+      "EvaluationFieldGuid": "B6469876-44170DBA-DBF8DFAB-F757A5EF",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_4.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.74"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "B6469876-44170DBA-DBF8DFAB-F757A5EF"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_5",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_5.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.75"
+        }
+      ],
+      "EvaluationFieldGuid": "10175D18-431A1839-76E3DD8D-2AC51AF0",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_5.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.75"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "10175D18-431A1839-76E3DD8D-2AC51AF0"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_6",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_6.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.76"
+        }
+      ],
+      "EvaluationFieldGuid": "5773994D-4EE4E425-51604CAE-4A0FE796",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_6.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.76"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "5773994D-4EE4E425-51604CAE-4A0FE796"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_7",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "anchorOffsetY",
+        "PropertyPath": "widget.anchorOffsetY"
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_7.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.77"
+        }
+      ],
+      "EvaluationFieldGuid": "1EBB6369-4964BE1C-A2392594-6334646C",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_7.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.77"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "1EBB6369-4964BE1C-A2392594-6334646C"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_8",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "anchorOffsetY",
+        "PropertyPath": "widget.anchorOffsetY"
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_8.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.78"
+        }
+      ],
+      "EvaluationFieldGuid": "F1B60ED7-4B6ECF31-F9BB43BF-7463BEE5",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_8.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.78"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "F1B60ED7-4B6ECF31-F9BB43BF-7463BEE5"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_9",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_9.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.79"
+        }
+      ],
+      "EvaluationFieldGuid": "CF3F846A-46CB4A5F-635576BE-1C795DF3",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_PhinigraphMain_Start:MovieScene_0.MovieSceneFloatTrack_9.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_PhinigraphMain_Start.79"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "CF3F846A-46CB4A5F-635576BE-1C795DF3"
+    }
+  }
+]

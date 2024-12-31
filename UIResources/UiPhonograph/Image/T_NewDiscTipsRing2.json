@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_NewDiscTipsRing2",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 2220,
+        "Y": 1406
+      },
+      "LightingGuid": "BA92E37A-49A49ABE-EE0E7E81-B905D7AA",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 2220,
+    "SizeY": 1408,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 3125760,
+          "SizeOnDisk": 3125760,
+          "OffsetInFile": "0x2FBD36"
+        },
+        "SizeX": 2220,
+        "SizeY": 1408,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

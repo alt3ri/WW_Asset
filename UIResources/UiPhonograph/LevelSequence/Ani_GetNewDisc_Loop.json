@@ -1,0 +1,6216 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "SequenceDirector_C",
+    "Class": "UScriptClass'BlueprintGeneratedClass'",
+    "SuperStruct": {
+      "ObjectName": "Class'LevelSequenceDirector'",
+      "ObjectPath": "/Script/LevelSequence"
+    },
+    "ClassFlags": "CLASS_Optional | CLASS_ReplicationDataIsSetUp | CLASS_CompiledFromBlueprint",
+    "ClassWithin": {
+      "ObjectName": "Class'Object'",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "SequenceDirector_C'Default__SequenceDirector_C'",
+      "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.1"
+    }
+  },
+  {
+    "Type": "SequenceDirector_C",
+    "Name": "Default__SequenceDirector_C",
+    "Class": "BlueprintGeneratedClass'Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.SequenceDirector_C'"
+  },
+  {
+    "Type": "LevelSequence",
+    "Name": "Ani_GetNewDisc_Loop",
+    "Class": "UScriptClass'LevelSequence'",
+    "Properties": {
+      "MovieScene": {
+        "ObjectName": "MovieScene'Ani_GetNewDisc_Loop:MovieScene_0'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.4"
+      },
+      "BindingReferences": {
+        "BindingIdToReferences": [
+          {
+            "Key": "C5E4B3AC-4B7B6E8F-2F3D63A9-61EC76C7",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "1BB42D5B-4665B160-7C6D42A3-51EA93B5",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "D3D96655-49C64514-9377C6B3-AAD68F19",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "D765FC43-42F2EFC7-726FE0AE-7FD58737",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "A780653C-43E13BFE-489D0D86-32D1D5BA",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "EEA2EEDD-4010B893-1E99C68F-F8928D7C",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "7567B214-4363C817-A02EE19B-3A95F9DD",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "80BDAEC8-4F4B59FC-41375080-1A731AAB",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "64C2DCE1-496AD56A-63664CB1-B633C925",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "7C543195-464731CE-3CD6DF8D-A34AD34A",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "2898F311-4C44BFB5-3B7A8D98-F0DAD693",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "E42F1881-4DB41D4F-C751C99C-F7134DB2",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "8DDEB855-40011638-B7A7CEB7-E3554F07",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          },
+          {
+            "Key": "4129B249-41F32A28-0B992A8D-79411D5D",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "4305D702-48655620-40E06892-57816A61",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "0C66600F-4B85DFAB-D9BAD399-FA818E56",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "E03FA8C3-4A00E002-A460AEA7-ADCBE9DC",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "1D904384-47820E1C-A6480D8E-D08410EF",
+            "Value": {
+              "References": []
+            }
+          },
+          {
+            "Key": "48B928EF-4B08B652-6E23AEA2-2DFD95C6",
+            "Value": {
+              "References": [
+                {
+                  "ExternalObjectPath": {
+                    "AssetPathName": "None",
+                    "SubPathString": ""
+                  },
+                  "ObjectPath": "UITextureComponent"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "DirectorClass": {
+        "ObjectName": "BlueprintGeneratedClass'SequenceDirector_C'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.0"
+      },
+      "SequenceDataAsset": {
+        "ObjectName": "KuroSequenceConsoleCommandDataAsset'DA_PerformanceMode_Default'",
+        "ObjectPath": "Client/Content/Aki/Render/Data/SequencePerformanceDA/DA_PerformanceMode_Default.0"
+      },
+      "AssetUserData": [
+        {
+          "ObjectName": "LevelSequencePrefabData'Ani_GetNewDisc_Loop:LevelSequencePrefabData_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.3"
+        }
+      ],
+      "CompiledData": {
+        "ObjectName": "MovieSceneCompiledData'Ani_GetNewDisc_Loop:CompiledData'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.61"
+      },
+      "Signature": "270B1A49-41BACDA9-D06FD18E-A23B3E78"
+    }
+  },
+  {
+    "Type": "LevelSequencePrefabData",
+    "Name": "LevelSequencePrefabData_0",
+    "Outer": "Ani_GetNewDisc_Loop",
+    "Class": "UScriptClass'LevelSequencePrefabData'",
+    "Properties": {
+      "SourcePrefabGuids": [
+        "52B3E36B-40355D6D-A44200B4-F7B7B4C5"
+      ]
+    }
+  },
+  {
+    "Type": "MovieScene",
+    "Name": "MovieScene_0",
+    "Outer": "Ani_GetNewDisc_Loop",
+    "Class": "UScriptClass'MovieScene'",
+    "Properties": {
+      "Possessables": [
+        {
+          "Tags": [],
+          "Guid": "E03FA8C3-4A00E002-A460AEA7-ADCBE9DC",
+          "Name": "TexRing1",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "A780653C-43E13BFE-489D0D86-32D1D5BA",
+          "Name": "UITextureComponent",
+          "ParentGuid": "E03FA8C3-4A00E002-A460AEA7-ADCBE9DC"
+        },
+        {
+          "Tags": [],
+          "Guid": "1D904384-47820E1C-A6480D8E-D08410EF",
+          "Name": "TexRing2",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "7C543195-464731CE-3CD6DF8D-A34AD34A",
+          "Name": "UITextureComponent",
+          "ParentGuid": "1D904384-47820E1C-A6480D8E-D08410EF"
+        },
+        {
+          "Tags": [],
+          "Guid": "EEA2EEDD-4010B893-1E99C68F-F8928D7C",
+          "Name": "TexRing3",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "D765FC43-42F2EFC7-726FE0AE-7FD58737",
+          "Name": "UITextureComponent",
+          "ParentGuid": "EEA2EEDD-4010B893-1E99C68F-F8928D7C"
+        },
+        {
+          "Tags": [],
+          "Guid": "7567B214-4363C817-A02EE19B-3A95F9DD",
+          "Name": "TexRing4",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "1BB42D5B-4665B160-7C6D42A3-51EA93B5",
+          "Name": "UITextureComponent",
+          "ParentGuid": "7567B214-4363C817-A02EE19B-3A95F9DD"
+        },
+        {
+          "Tags": [],
+          "Guid": "80BDAEC8-4F4B59FC-41375080-1A731AAB",
+          "Name": "TexRing5",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "8DDEB855-40011638-B7A7CEB7-E3554F07",
+          "Name": "UITextureComponent",
+          "ParentGuid": "80BDAEC8-4F4B59FC-41375080-1A731AAB"
+        },
+        {
+          "Tags": [],
+          "Guid": "C5E4B3AC-4B7B6E8F-2F3D63A9-61EC76C7",
+          "Name": "TexRing6",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "D3D96655-49C64514-9377C6B3-AAD68F19",
+          "Name": "UITextureComponent",
+          "ParentGuid": "C5E4B3AC-4B7B6E8F-2F3D63A9-61EC76C7"
+        },
+        {
+          "Tags": [],
+          "Guid": "64C2DCE1-496AD56A-63664CB1-B633C925",
+          "Name": "TexRing7",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "E42F1881-4DB41D4F-C751C99C-F7134DB2",
+          "Name": "UITextureComponent",
+          "ParentGuid": "64C2DCE1-496AD56A-63664CB1-B633C925"
+        },
+        {
+          "Tags": [],
+          "Guid": "0C66600F-4B85DFAB-D9BAD399-FA818E56",
+          "Name": "TexRing8",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "48B928EF-4B08B652-6E23AEA2-2DFD95C6",
+          "Name": "UITextureComponent",
+          "ParentGuid": "0C66600F-4B85DFAB-D9BAD399-FA818E56"
+        },
+        {
+          "Tags": [],
+          "Guid": "4129B249-41F32A28-0B992A8D-79411D5D",
+          "Name": "TexRing9",
+          "ParentGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "Tags": [],
+          "Guid": "2898F311-4C44BFB5-3B7A8D98-F0DAD693",
+          "Name": "UITextureComponent",
+          "ParentGuid": "4129B249-41F32A28-0B992A8D-79411D5D"
+        }
+      ],
+      "ObjectBindings": [
+        {
+          "ObjectGuid": "E03FA8C3-4A00E002-A460AEA7-ADCBE9DC",
+          "BindingName": "TexRing1",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_1'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.14"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "A780653C-43E13BFE-489D0D86-32D1D5BA",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_10'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.73"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "1D904384-47820E1C-A6480D8E-D08410EF",
+          "BindingName": "TexRing2",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_5'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.20"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "7C543195-464731CE-3CD6DF8D-A34AD34A",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_14'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.74"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "EEA2EEDD-4010B893-1E99C68F-F8928D7C",
+          "BindingName": "TexRing3",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_8'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.21"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "D765FC43-42F2EFC7-726FE0AE-7FD58737",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_23'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.75"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "7567B214-4363C817-A02EE19B-3A95F9DD",
+          "BindingName": "TexRing4",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_9'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.22"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "1BB42D5B-4665B160-7C6D42A3-51EA93B5",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_24'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.76"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "80BDAEC8-4F4B59FC-41375080-1A731AAB",
+          "BindingName": "TexRing5",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_10'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.15"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "8DDEB855-40011638-B7A7CEB7-E3554F07",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_25'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.77"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "C5E4B3AC-4B7B6E8F-2F3D63A9-61EC76C7",
+          "BindingName": "TexRing6",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_11'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.16"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "D3D96655-49C64514-9377C6B3-AAD68F19",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_26'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.78"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "64C2DCE1-496AD56A-63664CB1-B633C925",
+          "BindingName": "TexRing7",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_12'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.17"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "E42F1881-4DB41D4F-C751C99C-F7134DB2",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_27'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.79"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "0C66600F-4B85DFAB-D9BAD399-FA818E56",
+          "BindingName": "TexRing8",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_13'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.18"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "48B928EF-4B08B652-6E23AEA2-2DFD95C6",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_28'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.80"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "4129B249-41F32A28-0B992A8D-79411D5D",
+          "BindingName": "TexRing9",
+          "Tracks": [
+            {
+              "ObjectName": "MovieScene3DTransformTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_14'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.19"
+            }
+          ]
+        },
+        {
+          "ObjectGuid": "2898F311-4C44BFB5-3B7A8D98-F0DAD693",
+          "BindingName": "UITextureComponent",
+          "Tracks": [
+            {
+              "ObjectName": "MovieSceneFloatTrack'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_29'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.81"
+            }
+          ]
+        }
+      ],
+      "PlaybackRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 1,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 0,
+            "Value": {
+              "Value": 60000
+            }
+          }
+        }
+      },
+      "TickResolution": {
+        "Numerator": 24000
+      },
+      "DisplayRate": {
+        "Numerator": 60
+      },
+      "Signature": "A9E16093-44B37C7D-2C8714B0-37F5F513"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_1",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -12000
+          },
+          {
+            "Value": 36000
+          },
+          {
+            "Value": 48000
+          },
+          {
+            "Value": 96000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.069201E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5002933,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.069201E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5002933,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -12000
+          },
+          {
+            "Value": 36000
+          },
+          {
+            "Value": 48000
+          },
+          {
+            "Value": 96000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.069201E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5002933,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.069201E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5002933,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -12000
+          },
+          {
+            "Value": 36000
+          },
+          {
+            "Value": 48000
+          },
+          {
+            "Value": 96000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.069201E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5002933,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.069201E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5002933,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "576AF03E-454608BB-8722FDAC-D2FFD50A"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_10",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -44000
+          },
+          {
+            "Value": 4000
+          },
+          {
+            "Value": 16000
+          },
+          {
+            "Value": 64000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0660548E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5025779,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0660548E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5025779,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -44000
+          },
+          {
+            "Value": 4000
+          },
+          {
+            "Value": 16000
+          },
+          {
+            "Value": 64000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0660548E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5025779,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0660548E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5025779,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -44000
+          },
+          {
+            "Value": 4000
+          },
+          {
+            "Value": 16000
+          },
+          {
+            "Value": 64000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0660548E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5025779,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0660548E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5025779,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "A10D92F9-440B8932-B24523BC-C507DE43"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_11",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -52000
+          },
+          {
+            "Value": -4000
+          },
+          {
+            "Value": 8000
+          },
+          {
+            "Value": 56000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.0312564E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5051584,
+              "LeaveTangentWeight": 0.16666667,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.03275644E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5029722,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -52000
+          },
+          {
+            "Value": -4000
+          },
+          {
+            "Value": 8000
+          },
+          {
+            "Value": 56000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.0312564E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5051584,
+              "LeaveTangentWeight": 0.16666667,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.03275644E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5029722,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -52000
+          },
+          {
+            "Value": -4000
+          },
+          {
+            "Value": 8000
+          },
+          {
+            "Value": 56000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.0312564E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5051584,
+              "LeaveTangentWeight": 0.16666667,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.03275644E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5029722,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "1611CB9F-41CE98E7-C58ABAAF-CF348FD2"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_12",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0613834E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5059831,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0613834E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5059831,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0613834E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5059831,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "A6FBB637-4AC0E045-868C15BF-FCFBAC0A"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_13",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "970FD69A-46DA63AC-D51307B1-CF3FD6F7"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_14",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "5297C17E-493A1E57-6094EEB3-AC6F5A21"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_5",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -20000
+          },
+          {
+            "Value": 28000
+          },
+          {
+            "Value": 40000
+          },
+          {
+            "Value": 88000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0629139E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5048658,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0629139E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5048658,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -20000
+          },
+          {
+            "Value": 28000
+          },
+          {
+            "Value": 40000
+          },
+          {
+            "Value": 88000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0629139E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5048658,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0629139E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5048658,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -20000
+          },
+          {
+            "Value": 28000
+          },
+          {
+            "Value": 40000
+          },
+          {
+            "Value": 88000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0629139E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5048658,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0629139E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.5048658,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "E265CBF9-4F7498DD-1CAF76B6-7F8D108F"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_8",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -28000
+          },
+          {
+            "Value": 20000
+          },
+          {
+            "Value": 32000
+          },
+          {
+            "Value": 80000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0662501E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.502436,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0662501E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.502436,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -28000
+          },
+          {
+            "Value": 20000
+          },
+          {
+            "Value": 32000
+          },
+          {
+            "Value": 80000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0662501E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.502436,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0662501E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.502436,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -28000
+          },
+          {
+            "Value": 20000
+          },
+          {
+            "Value": 32000
+          },
+          {
+            "Value": 80000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0662501E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.502436,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 2.0662501E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.502436,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "4054ED01-4D480929-E776A799-93E734CD"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformSection",
+    "Name": "MovieScene3DTransformSection_0",
+    "Outer": "MovieScene3DTransformTrack_9",
+    "Class": "UScriptClass'MovieScene3DTransformSection'",
+    "Properties": {
+      "TransformMask": {
+        "Mask": 448
+      },
+      "Translation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Translation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Rotation[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [],
+        "Values": [],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -36000
+          },
+          {
+            "Value": 12000
+          },
+          {
+            "Value": 24000
+          },
+          {
+            "Value": 72000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.5543696E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.997214,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.5543696E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.997214,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[1]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -36000
+          },
+          {
+            "Value": 12000
+          },
+          {
+            "Value": 24000
+          },
+          {
+            "Value": 72000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.5543696E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.997214,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.5543696E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.997214,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Scale[2]": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -36000
+          },
+          {
+            "Value": 12000
+          },
+          {
+            "Value": 24000
+          },
+          {
+            "Value": 72000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.5543696E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.997214,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.05,
+            "Tangent": {
+              "ArriveTangent": 1.5543696E-13,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 1.997214,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 3
+            },
+            "InterpMode": 2,
+            "TangentMode": 2
+          }
+        ],
+        "DefaultValue": 1.05,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "14958324-4A59FF4A-CB21DDA7-8A02FC59"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_1",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_1.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.5"
+        }
+      ],
+      "EvaluationFieldGuid": "ED56E0B3-49984CBE-2ED82EA1-2F2B144C",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_1.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.5"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "ED56E0B3-49984CBE-2ED82EA1-2F2B144C"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_10",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_10.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.6"
+        }
+      ],
+      "EvaluationFieldGuid": "89BC315A-449AF049-02D9A3A2-BC0A527D",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_10.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.6"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "89BC315A-449AF049-02D9A3A2-BC0A527D"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_11",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_11.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.7"
+        }
+      ],
+      "EvaluationFieldGuid": "446B0B57-4C957E75-5CF6B486-71CA63BB",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_11.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.7"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "446B0B57-4C957E75-5CF6B486-71CA63BB"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_12",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_12.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.8"
+        }
+      ],
+      "EvaluationFieldGuid": "809CF538-41C22D88-9BD28C84-471781F8",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_12.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.8"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "809CF538-41C22D88-9BD28C84-471781F8"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_13",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_13.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.9"
+        }
+      ],
+      "EvaluationFieldGuid": "657FE5B5-4D459E60-C959F9B7-820C449B",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_13.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.9"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "657FE5B5-4D459E60-C959F9B7-820C449B"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_14",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_14.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.10"
+        }
+      ],
+      "EvaluationFieldGuid": "3BC3AA3C-41576DF1-19431C81-5B4A120E",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_14.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.10"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "3BC3AA3C-41576DF1-19431C81-5B4A120E"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_5",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_5.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.11"
+        }
+      ],
+      "EvaluationFieldGuid": "EDDB0454-410F6596-305EB18C-4C1F1B22",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_5.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.11"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "EDDB0454-410F6596-305EB18C-4C1F1B22"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_8",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_8.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.12"
+        }
+      ],
+      "EvaluationFieldGuid": "BAB58087-41A96851-D491988F-7A914932",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_8.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.12"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "BAB58087-41A96851-D491988F-7A914932"
+    }
+  },
+  {
+    "Type": "MovieScene3DTransformTrack",
+    "Name": "MovieScene3DTransformTrack_9",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieScene3DTransformTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_9.MovieScene3DTransformSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.13"
+        }
+      ],
+      "EvaluationFieldGuid": "F12B3EA2-40DE0FF3-B10603B9-0F07C65E",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_9.MovieScene3DTransformSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.13"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "F12B3EA2-40DE0FF3-B10603B9-0F07C65E"
+    }
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieScene3DTransformSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneEventTriggerSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneEventTriggerSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseInFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneBuiltInEasingFunction",
+    "Name": "EaseOutFunction",
+    "Outer": "MovieSceneFloatSection_0",
+    "Class": "UScriptClass'MovieSceneBuiltInEasingFunction'"
+  },
+  {
+    "Type": "MovieSceneCompiledData",
+    "Name": "CompiledData",
+    "Outer": "Ani_GetNewDisc_Loop",
+    "Class": "UScriptClass'MovieSceneCompiledData'",
+    "Properties": {
+      "EntityComponentField": {
+        "PersistentEntityTree": {
+          "SerializedData": {
+            "Data": {
+              "Entries": [
+                {
+                  "StartIndex": 0,
+                  "Size": 18,
+                  "Capacity": 18
+                }
+              ],
+              "Items": [
+                {
+                  "EntityIndex": 0,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 1,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 2,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 3,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 4,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 5,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 6,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 7,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 8,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 9,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 10,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 11,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 12,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 13,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 14,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 15,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 16,
+                  "MetaDataIndex": -1
+                },
+                {
+                  "EntityIndex": 17,
+                  "MetaDataIndex": -1
+                }
+              ]
+            },
+            "RootNode": {
+              "Range": {
+                "LowerBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                },
+                "UpperBound": {
+                  "Type": 2,
+                  "Value": {
+                    "Value": 0
+                  }
+                }
+              },
+              "Parent": {
+                "ChildrenHandle": {
+                  "EntryIndex": -1
+                },
+                "Index": -1
+              },
+              "ChildrenID": {
+                "EntryIndex": -1
+              },
+              "DataID": {
+                "EntryIndex": 0
+              }
+            },
+            "ChildNodes": {
+              "Entries": [],
+              "Items": []
+            }
+          }
+        },
+        "Entities": [
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_1.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.5"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 0
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_10.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.64"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 1
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_5.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.11"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 2
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_14.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.65"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 3
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_8.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.12"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 4
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_23.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.66"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 5
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_9.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.13"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 6
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_24.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.67"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 7
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_10.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.6"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 8
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_25.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.68"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 9
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_11.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.7"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 10
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_26.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.69"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 11
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_12.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.8"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 12
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_27.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.70"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 13
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_13.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.9"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 14
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_28.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.71"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 15
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieScene3DTransformSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieScene3DTransformTrack_14.MovieScene3DTransformSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.10"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 16
+          },
+          {
+            "Key": {
+              "EntityOwner": {
+                "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_29.MovieSceneFloatSection_0'",
+                "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.72"
+              },
+              "EntityID": 0
+            },
+            "SharedMetaDataIndex": 17
+          }
+        ],
+        "SharedMetaData": [
+          {
+            "ObjectBindingID": "E03FA8C3-4A00E002-A460AEA7-ADCBE9DC"
+          },
+          {
+            "ObjectBindingID": "A780653C-43E13BFE-489D0D86-32D1D5BA"
+          },
+          {
+            "ObjectBindingID": "1D904384-47820E1C-A6480D8E-D08410EF"
+          },
+          {
+            "ObjectBindingID": "7C543195-464731CE-3CD6DF8D-A34AD34A"
+          },
+          {
+            "ObjectBindingID": "EEA2EEDD-4010B893-1E99C68F-F8928D7C"
+          },
+          {
+            "ObjectBindingID": "D765FC43-42F2EFC7-726FE0AE-7FD58737"
+          },
+          {
+            "ObjectBindingID": "7567B214-4363C817-A02EE19B-3A95F9DD"
+          },
+          {
+            "ObjectBindingID": "1BB42D5B-4665B160-7C6D42A3-51EA93B5"
+          },
+          {
+            "ObjectBindingID": "80BDAEC8-4F4B59FC-41375080-1A731AAB"
+          },
+          {
+            "ObjectBindingID": "8DDEB855-40011638-B7A7CEB7-E3554F07"
+          },
+          {
+            "ObjectBindingID": "C5E4B3AC-4B7B6E8F-2F3D63A9-61EC76C7"
+          },
+          {
+            "ObjectBindingID": "D3D96655-49C64514-9377C6B3-AAD68F19"
+          },
+          {
+            "ObjectBindingID": "64C2DCE1-496AD56A-63664CB1-B633C925"
+          },
+          {
+            "ObjectBindingID": "E42F1881-4DB41D4F-C751C99C-F7134DB2"
+          },
+          {
+            "ObjectBindingID": "0C66600F-4B85DFAB-D9BAD399-FA818E56"
+          },
+          {
+            "ObjectBindingID": "48B928EF-4B08B652-6E23AEA2-2DFD95C6"
+          },
+          {
+            "ObjectBindingID": "4129B249-41F32A28-0B992A8D-79411D5D"
+          },
+          {
+            "ObjectBindingID": "2898F311-4C44BFB5-3B7A8D98-F0DAD693"
+          }
+        ]
+      },
+      "CompiledSignature": "270B1A49-41BACDA9-D06FD18E-A23B3E78",
+      "CompilerVersion": "7D4B9809-2FAC4A6B-964ECF72-D8279EF8",
+      "AccumulatedMask": {
+        "bEntityComponentField": true
+      },
+      "AllocatedMask": {
+        "bEntityComponentField": true
+      }
+    }
+  },
+  {
+    "Type": "MovieSceneEventTrack",
+    "Name": "MovieSceneEventTrack_0",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneEventTrack'",
+    "Properties": {
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneEventTriggerSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneEventTrack_0.MovieSceneEventTriggerSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.63"
+        }
+      ],
+      "EvaluationFieldGuid": "F110E95A-44376D58-D756D6AF-EE90BBA5",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneEventTriggerSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneEventTrack_0.MovieSceneEventTriggerSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.63"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "17F96C9B-4C9944CD-0E7769B6-559180E0"
+    }
+  },
+  {
+    "Type": "MovieSceneEventTriggerSection",
+    "Name": "MovieSceneEventTriggerSection_0",
+    "Outer": "MovieSceneEventTrack_0",
+    "Class": "UScriptClass'MovieSceneEventTriggerSection'",
+    "Properties": {
+      "EventChannel": {
+        "KeyTimes": [
+          {
+            "Value": 8000
+          }
+        ],
+        "KeyValues": [
+          {
+            "Ptrs": {
+              "Function": null,
+              "BoundObjectProperty": {
+                "Path": [],
+                "ResolvedOwner": null
+              }
+            }
+          }
+        ]
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "Signature": "08552D0F-45AFFCD9-5A3A20A4-2C749DED"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_10",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -12000
+          },
+          {
+            "Value": 0
+          },
+          {
+            "Value": 12000
+          },
+          {
+            "Value": 36000
+          },
+          {
+            "Value": 48000
+          },
+          {
+            "Value": 60000
+          },
+          {
+            "Value": 72000
+          },
+          {
+            "Value": 96000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "2B031833-43B6C453-74608D98-DEE489C5"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_14",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -20000
+          },
+          {
+            "Value": -8000
+          },
+          {
+            "Value": 4000
+          },
+          {
+            "Value": 28000
+          },
+          {
+            "Value": 40000
+          },
+          {
+            "Value": 52000
+          },
+          {
+            "Value": 64000
+          },
+          {
+            "Value": 88000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "A12F935C-4CAC32A5-04380D94-73CD0AE9"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_23",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -28000
+          },
+          {
+            "Value": -16000
+          },
+          {
+            "Value": -4000
+          },
+          {
+            "Value": 20000
+          },
+          {
+            "Value": 32000
+          },
+          {
+            "Value": 44000
+          },
+          {
+            "Value": 56000
+          },
+          {
+            "Value": 80000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "34EA398E-47D2363E-73CA2BAA-49E36C3D"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_24",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -36000
+          },
+          {
+            "Value": -24000
+          },
+          {
+            "Value": -12000
+          },
+          {
+            "Value": 12000
+          },
+          {
+            "Value": 24000
+          },
+          {
+            "Value": 36000
+          },
+          {
+            "Value": 48000
+          },
+          {
+            "Value": 72000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "2C8E75AB-4C646502-592D3396-49ED86F4"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_25",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -44000
+          },
+          {
+            "Value": -32000
+          },
+          {
+            "Value": -20000
+          },
+          {
+            "Value": 4000
+          },
+          {
+            "Value": 16000
+          },
+          {
+            "Value": 28000
+          },
+          {
+            "Value": 40000
+          },
+          {
+            "Value": 64000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "566B9F11-4C16698C-7C539DAD-C2B17962"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_26",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": -52000
+          },
+          {
+            "Value": -40000
+          },
+          {
+            "Value": -28000
+          },
+          {
+            "Value": -4000
+          },
+          {
+            "Value": 8000
+          },
+          {
+            "Value": 20000
+          },
+          {
+            "Value": 32000
+          },
+          {
+            "Value": 56000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "0A837B74-46A98A57-2BB5D383-98BC6D7A"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_27",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 12000
+          },
+          {
+            "Value": 24000
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 1.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "B2A91B3E-415DD49F-96391BBD-84E76CB5"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_28",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 24000
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "F393F08E-47D26838-C8E68C8C-30AC33A8"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatSection",
+    "Name": "MovieSceneFloatSection_0",
+    "Outer": "MovieSceneFloatTrack_29",
+    "Class": "UScriptClass'MovieSceneFloatSection'",
+    "Properties": {
+      "FloatCurve": {
+        "PreInfinityExtrap": "RCCE_Constant",
+        "PostInfinityExtrap": "RCCE_Constant",
+        "Times": [
+          {
+            "Value": 0
+          },
+          {
+            "Value": 24000
+          },
+          {
+            "Value": 48000
+          }
+        ],
+        "Values": [
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 1.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          },
+          {
+            "Value": 0.0,
+            "Tangent": {
+              "ArriveTangent": 0.0,
+              "LeaveTangent": 0.0,
+              "ArriveTangentWeight": 0.0,
+              "LeaveTangentWeight": 0.0,
+              "TangentWeightMode": 0
+            },
+            "InterpMode": 2,
+            "TangentMode": 0
+          }
+        ],
+        "DefaultValue": 0.0,
+        "bHasDefaultValue": true,
+        "TickResolution": {
+          "Numerator": 24000,
+          "Denominator": 1
+        },
+        "bShowCurve": false,
+        "StructFallback": null
+      },
+      "Easing": {
+        "EaseIn": null,
+        "EaseOut": null
+      },
+      "SectionRange": {
+        "Value": {
+          "LowerBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          },
+          "UpperBound": {
+            "Type": 2,
+            "Value": {
+              "Value": 0
+            }
+          }
+        }
+      },
+      "Signature": "0ECE4334-481AFD3E-64F6AAA9-085E749D"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_10",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_10.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.64"
+        }
+      ],
+      "EvaluationFieldGuid": "75CF9A35-449358DD-88AAC8AE-09302E0F",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_10.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.64"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "75CF9A35-449358DD-88AAC8AE-09302E0F"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_14",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_14.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.65"
+        }
+      ],
+      "EvaluationFieldGuid": "BF375A87-4A945FFB-99044C83-2DF23804",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_14.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.65"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "BF375A87-4A945FFB-99044C83-2DF23804"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_23",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_23.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.66"
+        }
+      ],
+      "EvaluationFieldGuid": "7D06A505-4CAB0D7C-9C7CE79F-9800D5FF",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_23.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.66"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "7D06A505-4CAB0D7C-9C7CE79F-9800D5FF"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_24",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_24.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.67"
+        }
+      ],
+      "EvaluationFieldGuid": "6CD252D9-46150741-C515BFA6-7D56E863",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_24.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.67"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "6CD252D9-46150741-C515BFA6-7D56E863"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_25",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_25.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.68"
+        }
+      ],
+      "EvaluationFieldGuid": "C6EA5D95-47D730D7-1470E4B7-F542B92E",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_25.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.68"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "C6EA5D95-47D730D7-1470E4B7-F542B92E"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_26",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_26.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.69"
+        }
+      ],
+      "EvaluationFieldGuid": "4A7888C9-433791C4-49D4A1AA-8F921FC0",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_26.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.69"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "4A7888C9-433791C4-49D4A1AA-8F921FC0"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_27",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_27.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.70"
+        }
+      ],
+      "EvaluationFieldGuid": "66FFBA49-4AD83266-A15F198C-96C08F0B",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_27.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.70"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "66FFBA49-4AD83266-A15F198C-96C08F0B"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_28",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_28.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.71"
+        }
+      ],
+      "EvaluationFieldGuid": "F7FB6F6D-496C722F-89B86392-4D4214CD",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_28.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.71"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "F7FB6F6D-496C722F-89B86392-4D4214CD"
+    }
+  },
+  {
+    "Type": "MovieSceneFloatTrack",
+    "Name": "MovieSceneFloatTrack_29",
+    "Outer": "MovieScene_0",
+    "Class": "UScriptClass'MovieSceneFloatTrack'",
+    "Properties": {
+      "PropertyBinding": {
+        "PropertyName": "Alpha",
+        "PropertyPath": "Alpha",
+        "bCanUseClassLookup": true
+      },
+      "Sections": [
+        {
+          "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_29.MovieSceneFloatSection_0'",
+          "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.72"
+        }
+      ],
+      "EvaluationFieldGuid": "061695AB-4ECD7D79-AC62C7A6-DFABE1E6",
+      "EvaluationField": {
+        "Entries": [
+          {
+            "Section": {
+              "ObjectName": "MovieSceneFloatSection'Ani_GetNewDisc_Loop:MovieScene_0.MovieSceneFloatTrack_29.MovieSceneFloatSection_0'",
+              "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/LevelSequence/Ani_GetNewDisc_Loop.72"
+            },
+            "Range": {
+              "LowerBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              },
+              "UpperBound": {
+                "Type": "ERangeBoundTypes::Open",
+                "Value": {
+                  "Value": 0
+                }
+              }
+            },
+            "ForcedTime": {
+              "Value": -2147483648
+            },
+            "Flags": "ESectionEvaluationFlags::None",
+            "LegacySortOrder": 0
+          }
+        ]
+      },
+      "Signature": "061695AB-4ECD7D79-AC62C7A6-DFABE1E6"
+    }
+  }
+]

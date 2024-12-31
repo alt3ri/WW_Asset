@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_Disc_DotMatrix",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 600,
+        "Y": 122
+      },
+      "LightingGuid": "ADD3D163-431367BC-3DF65B83-EC0543A6",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 600,
+    "SizeY": 124,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 74400,
+          "SizeOnDisk": 74400,
+          "OffsetInFile": "0x12DCE"
+        },
+        "SizeX": 600,
+        "SizeY": 124,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_MaskLeftYellow",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 516,
+        "Y": 592
+      },
+      "LightingGuid": "551529F8-43C9A5F4-EB1F84B5-3BD81CBF",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 516,
+    "SizeY": 592,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 305472,
+          "SizeOnDisk": 305472,
+          "OffsetInFile": "0x4B46E"
+        },
+        "SizeX": 516,
+        "SizeY": 592,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

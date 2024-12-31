@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_IconPlayingBg",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "BorderLeft": 50,
+      "BorderRight": 50,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiPhonograph'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/Atlas/TPI_UiPhonograph.0"
+      }
+    }
+  }
+]

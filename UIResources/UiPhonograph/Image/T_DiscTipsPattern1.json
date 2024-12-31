@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "T_DiscTipsPattern1",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "AddressX": "TA_Clamp",
+      "AddressY": "TA_Clamp",
+      "ImportedSize": {
+        "X": 370,
+        "Y": 1080
+      },
+      "LightingGuid": "A90C3CB4-4F29646B-22C7AFAF-5DE24277",
+      "CompressionSettings": "TC_BC7",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 372,
+    "SizeY": 1080,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 401760,
+          "SizeOnDisk": 401760,
+          "OffsetInFile": "0x62C96"
+        },
+        "SizeX": 372,
+        "SizeY": 1080,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

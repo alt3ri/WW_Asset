@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_DiscSelVfx",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiPhonograph'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/Atlas/TPI_UiPhonograph.0"
+      }
+    }
+  }
+]

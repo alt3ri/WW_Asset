@@ -1,0 +1,15 @@
+[
+  {
+    "Type": "LGUITexturePackerSpriteData",
+    "Name": "SP_PgSingingList1",
+    "Class": "UScriptClass'LGUITexturePackerSpriteData'",
+    "Properties": {
+      "CustomUVOffsetX": 0.0015,
+      "CustomUVOffsetY": 0.004,
+      "Importer": {
+        "ObjectName": "LGUITexturePackerImporterData'TPI_UiPhonograph'",
+        "ObjectPath": "Client/Content/Aki/UI/UIResources/UiPhonograph/Atlas/TPI_UiPhonograph.0"
+      }
+    }
+  }
+]
