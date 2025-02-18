@@ -1,0 +1,10 @@
+chun3.png
+size:4096,4096
+filter:Linear,Linear
+chun3a
+bounds:2,1704,3200,1500
+chun3b
+bounds:2,202,1997,1500
+offsets:0,0,3200,1500
+heibian
+bounds:2,48,3202,152
