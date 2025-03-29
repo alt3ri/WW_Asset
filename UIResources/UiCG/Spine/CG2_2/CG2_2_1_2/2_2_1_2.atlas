@@ -1,0 +1,265 @@
+2_2_1_2.png
+size:4096,4096
+filter:Linear,Linear
+scale:0.72
+L arm_arm
+bounds:1066,1252,1459,654
+L arm_hand
+bounds:1658,1480,570,426
+offsets:64,0,634,426
+rotate:180
+L arm_index1
+bounds:79,214,169,199
+offsets:0,0,169,202
+L arm_index2
+bounds:2638,3610,102,151
+offsets:0,0,168,184
+L arm_little1
+bounds:197,238,190,155
+L arm_little2
+bounds:2730,3742,96,93
+offsets:0,3,96,96
+L arm_little3
+bounds:1538,1798,89,108
+offsets:4,0,93,108
+L arm_middle1
+bounds:2491,3608,199,205
+offsets:1,0,200,205
+L arm_middle2
+bounds:1596,1639,117,167
+offsets:3,0,120,170
+L arm_middle3
+bounds:2107,1770,97,138
+offsets:1,0,151,143
+L arm_ring1
+bounds:2777,3554,176,192
+offsets:0,0,176,195
+L arm_ring2
+bounds:2623,2744,83,135
+offsets:0,2,84,137
+L arm_ring3
+bounds:2469,2970,89,116
+offsets:1,3,91,132
+L ear
+bounds:1879,1068,423,182
+offsets:52,0,501,182
+L erhuan_1
+bounds:2304,3776,36,103
+offsets:1,5,40,111
+L erhuan_2
+bounds:2339,3759,33,101
+offsets:3,4,40,111
+L erhuan_3
+bounds:2131,2739,35,104
+offsets:0,5,40,111
+L eye_ball
+bounds:1647,3570,93,64
+offsets:4,5,98,73
+L eye_down lid
+bounds:1637,1591,137,62
+offsets:5,4,160,83
+L eye_lid1
+bounds:2065,1448,166,66
+offsets:2,3,173,71
+L eye_lid2
+bounds:2147,3818,49,40
+offsets:4,3,60,50
+L eye_lid3
+bounds:2112,4056,103,17
+offsets:6,4,114,27
+L eye_white
+bounds:690,1260,121,69
+R arm 2ck
+bounds:1647,2839,1037,867
+offsets:803,28,1840,895
+rotate:90
+R arm_arm
+bounds:2,514,851,768
+offsets:0,2,851,770
+rotate:180
+R arm_hand
+bounds:2,371,454,248
+offsets:0,2,454,250
+R arm_index1
+bounds:3685,3975,183,98
+R arm_index2
+bounds:2838,2596,148,108
+R arm_index3
+bounds:2752,2136,120,120
+R arm_litte1
+bounds:3235,3151,149,82
+R arm_litte2
+bounds:2205,3806,102,83
+R arm_litte3
+bounds:2047,3840,111,75
+offsets:43,29,156,106
+R arm_middle1
+bounds:596,1331,210,109
+R arm_middle2
+bounds:2793,2477,104,102
+R arm_middle3
+bounds:2,1283,126,127
+offsets:3,0,189,127
+R arm_ring1
+bounds:180,629,167,93
+R arm_ring2
+bounds:1647,3636,133,89
+R arm_ring3
+bounds:3561,3578,169,113
+R arm_thumb1
+bounds:756,278,343,171
+R arm_thumb2
+bounds:2230,1598,185,112
+R arm_thumb3
+bounds:2,669,176,114
+R ear
+bounds:1647,3726,286,150
+offsets:114,18,427,171
+R eye_ball
+bounds:2502,3496,124,91
+offsets:4,2,129,95
+R eye_down lid
+bounds:1879,1195,185,55
+offsets:1,6,193,65
+R eye_lid1
+bounds:2038,2839,299,81
+offsets:0,2,301,87
+R eye_lid2
+bounds:1840,3769,54,49
+offsets:0,1,58,52
+R eye_lid3
+bounds:1647,3513,43,57
+offsets:1,3,44,63
+R eye_lid4
+bounds:1686,3871,211,39
+offsets:5,4,221,45
+R eye_white
+bounds:2297,1105,196,96
+R_erhuan_3
+bounds:1066,1806,35,100
+offsets:2,5,40,111
+R_erhuan_4
+bounds:2167,2729,34,103
+offsets:3,5,40,111
+R_erhuan_5
+bounds:2131,2636,30,103
+offsets:5,5,40,111
+Z brow
+bounds:150,190,603,131
+offsets:0,1,603,132
+biaoqing2_L eye
+bounds:3176,2179,271,79
+offsets:4,5,279,88
+biaoqing2_R eye
+bounds:2,604,152,63
+offsets:5,5,161,72
+biaoqing2_l1
+bounds:1932,3866,114,31
+offsets:2,4,119,38
+biaoqing2_l2
+bounds:1870,3871,177,44
+offsets:4,2,197,48
+body
+bounds:2131,1678,1294,505
+offsets:0,0,1320,616
+rotate:90
+hair1
+bounds:2641,754,847,680
+offsets:183,148,1030,828
+rotate:90
+hair10
+bounds:448,317,337,586
+offsets:0,0,341,586
+rotate:90
+hair11
+bounds:3534,2089,314,563
+hair12
+bounds:2598,3384,923,689
+hair2
+bounds:2,37,394,406
+offsets:1,1,395,407
+rotate:180
+hair3
+bounds:1647,3877,196,666
+offsets:0,28,196,699
+rotate:90
+hair4
+bounds:3432,1982,177,633
+offsets:1,4,178,653
+hair5
+bounds:831,864,615,563
+offsets:0,0,642,563
+hair5_1
+bounds:2279,3777,256,219
+offsets:0,7,256,230
+hair5_2
+bounds:2633,1829,225,967
+hair5_3
+bounds:2261,3657,522,416
+offsets:112,0,634,416
+hair5_4
+bounds:2210,1297,959,1031
+rotate:270
+hair6
+bounds:3207,3232,427,353
+offsets:0,3,428,356
+rotate:90
+hair7
+bounds:1566,346,87,376
+offsets:0,28,108,404
+hair8
+bounds:3532,3040,345,795
+offsets:0,41,365,865
+hair8b
+bounds:3488,3804,269,518
+offsets:96,347,365,865
+rotate:90
+hair9
+bounds:1487,268,499,574
+offsets:15,0,514,574
+rotate:90
+head
+bounds:2476,2721,757,885
+offsets:0,19,757,921
+huil
+bounds:2,1442,1062,464
+jiao
+bounds:1101,336,225,174
+l1
+bounds:3025,2245,816,616
+rotate:90
+l1-1
+bounds:3089,641,704,532
+l2
+bounds:3173,1554,831,627
+l3
+bounds:2798,2258,1309,929
+rotate:270
+l4
+bounds:3144,2146,1313,929
+offsets:0,0,1354,929
+rotate:90
+l5
+bounds:2,511,1454,929
+offsets:3,0,1457,929
+light2
+bounds:1446,1061,431,189
+mouth
+bounds:1813,3749,62,19
+neck
+bounds:2937,748,357,394
+offsets:23,0,380,394
+nose
+bounds:1782,3689,47,69
+offsets:5,2,53,73
+qq
+bounds:2,1908,2127,929
+qq2
+bounds:2,2839,1643,1234
+shenghen
+bounds:2628,1868,117,179
+offsets:0,3,117,183
+wangguan1
+bounds:1457,634,1188,487
+wangguan2
+bounds:2547,524,1016,223
