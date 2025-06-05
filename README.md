@@ -1,6 +1,6 @@
 # WW_Asset
 
-** MOVED TO [GITLAB](https://git.encore.moe:2222/alt3ri/WW_Asset) **
+** MOVED TO [GITLAB](https://git.encore.moe/alt3ri/WW_Asset) **
 
 Tell me which Atlas you want me to slice in [Issues](https://github.com/alt3ri/WW_Asset/issues/new)
 
