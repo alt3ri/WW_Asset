@@ -1,5 +1,3 @@
 # WW_Asset
 
-Tell me which Atlas you want me to slice in [Issues](https://github.com/alt3ri/WW_Asset/issues/new)
-
-Most of you will come to find [skill icons](https://github.com/alt3ri/WW_Asset/tree/Global/UIResources/Common/Atlas/SkillIcon)
+Better use [WEBP](https://github.com/alt3ri/WW_Asset_webp) version for better storage :D
